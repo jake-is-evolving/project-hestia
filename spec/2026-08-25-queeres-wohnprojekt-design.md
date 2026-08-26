@@ -2,6 +2,11 @@
 
 **Stand:** 26.08.2026 · **Status:** Entwurf. Nichts davon ist beschlossen.
 
+## Zu diesem Dokument
+Dieses Dokument wurde unter Nutzung von Claude Opus 5 recherchiert und generiert. Merkt man finde ich. Viel gutes dabei, unnötige Details an vielen Stellen, teilweise sehr wildes Abbiegen. Naja. Recherchegrundlage! Viel Spaß :D 
+-> Jake
+
+
 ## Worum es geht
 
 Ein Haus, in dem zwischen 20 und 40 Erwachsene zusammenleben. Eine große Küche, ein gemeinsamer Essbereich, Gemeinschaftsräume, die als solche aktiv genutzt werden. Gästezimmer, in denen Menschen von außerhalb übernachten können. Seminarräume für Workshops und Community-Veranstaltungen. Und ringsum ein größerer Kreis von Menschen, die selbstverständlich dazugehören, ohne dort zu schlafen.
