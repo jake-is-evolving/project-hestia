@@ -1,0 +1,1079 @@
+# Queeres Wohnprojekt — Designdokument
+
+**Stand:** 25.08.2026 · **Status:** Arbeitsentwurf, nichts davon ist beschlossen
+
+> **Zweck dieses Dokuments** Zwei Dinge zugleich: Ausgangspunkt für die eigene Recherche und Gesprächsgrundlage für Menschen, die in eine ähnliche Richtung denken.
+> **Was es nicht ist:** kein Rechts-, Steuer- oder Finanzberatungsdokument. Alle Zahlen sind Größenordnungen zum Nachrechnen, keine Angebote. Alle rechtlichen Aussagen sind Rechercheanstöße und gehören vor jeder Entscheidung anwaltlich geprüft.
+> **Lesehinweis für Interessierte:** Abschnitt 0 und 1 reichen für einen ersten Eindruck. Abschnitt 7 und 8 sind die unbequemen Teile — und die wichtigsten.
+
+---
+
+## Inhalt
+
+| #  | Abschnitt                                                                       | Für wen besonders relevant |
+| -- | ------------------------------------------------------------------------------- | --------------------------- |
+| 0  | [Kurzfassung](#0--kurzfassung)                                                   | alle                        |
+| 1  | [Vision und Grundentscheidungen](#1--vision-und-grundentscheidungen)             | alle                        |
+| 2  | [Grundarchitektur: drei Ebenen](#2--grundarchitektur-drei-ebenen)                | alle                        |
+| 3  | [Rechts- und Eigentumsform](#3--rechts--und-eigentumsform)                       | Struktur-Interessierte      |
+| 4  | [Finanzierung](#4--finanzierung)                                                 | alle                        |
+| 5  | [Der Weg dorthin: Track A und Track B](#5--der-weg-dorthin-track-a-und-track-b)  | alle                        |
+| 6  | [Governance](#6--governance)                                                     | alle                        |
+| 7  | [Poly und Beziehungsnetz](#7--poly-und-beziehungsnetz-strukturelle-vorkehrungen) | alle                        |
+| 8  | [Kinder und Schutzkonzept](#8--kinder-und-schutzkonzept)                         | alle                        |
+| 9  | [Generationenfestigkeit](#9--generationenfestigkeit)                             | Struktur-Interessierte      |
+| 10 | [Ort und Objekt](#10--ort-und-objekt)                                            | alle                        |
+| 11 | [Risikoregister](#11--risikoregister)                                            | alle                        |
+| 12 | [Offene Fragen](#12--offene-fragen-priorisiert)                                  | alle                        |
+| 13 | [Nächste Schritte](#13--nächste-schritte-die-ersten-90-tage)                   | Aktive                      |
+| 14 | [Recherchequellen und Kölner Anlaufstellen](#14--recherchequellen-und-kontakte) | alle                        |
+| — | [Anhang A — Ideen und Werkzeuge](#anhang-a--ideen-und-werkzeuge)                | Aktive                      |
+| — | [Glossar](#glossar)                                                              | alle                        |
+
+---
+
+## 0 — Kurzfassung
+
+Ein **explizit queeres Wohnprojekt im Raum Köln** in drei Kreisen: rund **20 Menschen im Haupthaus**, ein **Einzugsgebiet** angebundener Wohnungen in Geh- oder Radweite, und ein großer **Trägerkreis**, der dazugehört, ohne dort zu wohnen. Große Gemeinschaftsküche, Gemeinschafts- und Sozialräume, Gästezimmer für Menschen von außerhalb. Basisdemokratisch organisiert. Poly-affirmativ, mit überlappenden Beziehungen als selbstverständlichem Teil der Kultur.
+
+Fünf Grundentscheidungen prägen alles Weitere:
+
+1. **Kein Vermögensaufbau für Einzelne.** Einlagen kommen zum Nennwert zurück. Das Objekt wird dauerhaft dem Markt entzogen.
+2. **Es soll Generationen überdauern.** Das Wunsch wie auch Konstruktionsvorgabe, die bestimmte Rechtsformen ausschließt.
+3. **Queer ist der Zweck, nicht der Türsteher.** Das Haus bleibt ein queeres Projekt über eine Quote für seine *Zusammensetzung* — nicht über eine Identitätsprüfung an der Tür. Poly ist Kultur, nicht Bedingung. Eine Beziehung ist niemals ein Zugangsweg.
+4. **Zwei parallele Stränge:** ein kleiner gemieteter Zwischenschritt als echter Alltagstest — und gleichzeitig, nicht danach, der Aufbau von Struktur und Kapital.
+5. **Das Haus ist nicht das Projekt.** Die soziale Masse entsteht über drei Kreise, nicht über Kopfzahl unter einem Dach. Das hält das Objekt findbar und finanzierbar — und verlagert die Schwierigkeit von der Immobiliensuche in die Governance (→ 2.2).
+
+Bevorzugtes Modell für die Eigentumsebene: **Mietshäuser Syndikat**, möglichst kombiniert mit **Erbbaurecht über eine Stiftung**. Begründung in Abschnitt 3.
+
+---
+
+## 1 — Vision und Grundentscheidungen
+
+### 1.1 Was entstehen soll
+
+Ein Zuhause für rund **20 Erwachsene im Haupthaus**, in dem Gemeinschaft nicht Programm ist, sondern Infrastruktur — eingebettet in einen deutlich größeren Kreis, der mitlebt, ohne dort zu schlafen. Der Ausgangspunkt ist eine gelebte Erfahrung: gemeinsame Urlaube in dieser Größenordnung, die getragen haben. Die Idee ist, diese Qualität vom Ausnahmezustand in den Alltag zu überführen.
+
+Konkret gewünscht:
+
+- große gemeinsame Küche und Essensräume als sozialer Mittelpunkt, nicht als Nebenraum
+- mehrere Gemeinschafts- und Rückzugsräume unterschiedlichen Charakters (Chillen, Spielen, Sauna etc)
+- Gästezimmer, damit Menschen von außerhalb regelmäßig und unkompliziert da sein können
+- gute Erreichbarkeit, urbanes Umfeld
+- private Rückzugsräume, die individuell ausgestaltet werden können
+- direkte Anbindung (etwa auf Grundstück) sowie "Einzugsgebiet" für andere, außenliegende Wohnungen
+
+### 1.2 Die fünf Grundentscheidungen und warum sie so getroffen sind
+
+**Nennwert statt Wertsteigerung.** Wer auszieht, bekommt die Einlage zurück — nicht mehr. Der Grund ist nicht Askese, sondern Funktion: Sobald Anteile im Wert steigen, wird jeder Auszug zu einer Finanzierungsfrage für die Verbleibenden, das Wohnen wird für Nachrückende immer teurer, und das Kapital entscheidet informell mit, auch wenn die Satzung eine Stimme pro Kopf vorsieht. Wertstabile Anteile halten Ein- und Austritt leicht — und das ist die Voraussetzung dafür, dass sich die Gruppe über Jahrzehnte erneuern kann.
+
+**Es soll überdauern.** Diese Entscheidung hat eine unangenehme Konsequenz, die früh verstanden werden muss: *Die größte Gefahr für das Projekt ist nicht der Markt, sondern die eigene spätere Mehrheit.* In vierzig Jahren sitzen dort Menschen, die die Gründung nicht erlebt haben, in einer abbezahlten Immobilie mit erheblichem Marktwert. Irgendwann rechnet jemand vor, was ein Verkauf pro Kopf bringen würde. Eine Satzung schützt davor nicht, denn dieselbe Versammlung kann sie ändern. Deshalb braucht es eine Sicherung, die außerhalb der Reichweite der eigenen Mitgliederversammlung liegt (→ Abschnitt 9).
+
+**Queer als Zweck, Poly als Kultur, Beziehung nie als Zugang.** Der *Zweck* des Hauses ist queer — das steht in Satzung und Charta und ist die Sicherung, die es über Generationen queer hält. Die einzelne Person wird deshalb aber nicht geprüft: Gesichert wird die Zusammensetzung des Hauses, nicht der Ausweis der Bewerber:in (→ 3.6). Und unabhängig davon gilt: Ein Projekt, dessen Zugehörigkeit faktisch über Beziehungen läuft, kann Generationen nicht überdauern — wer in vierzig Jahren dort wohnt, kennt niemanden von heute. Generation 2 kommt zwangsläufig über ein *Verfahren* ins Haus, nicht über Freundschaft oder Liebe. Wer das ernst nimmt, muss das Verfahren jetzt bauen, solange es niemandem wehtut. Details in 3.6 und 7.1.
+
+**Zwei parallele Stränge statt Reihenfolge.** Ein gemieteter Zwischenschritt testet die Kernannahme — dass die Urlaubserfahrung in den Alltag trägt — bevor Millionen im Spiel sind. Aber allein gelassen wird der Zwischenschritt gemütlich, und das Zielprojekt wird „irgendwann". Deshalb läuft der Strukturaufbau von Anfang an mit, mit eigenen Terminen.
+
+**Das Haus ist nicht das Projekt.** Dreißig Menschen unter einem Dach brauchen 1.200–1.700 m² und vier bis acht Millionen — in Köln ist das die Anforderung, an der das Vorhaben am wahrscheinlichsten scheitert, und zwar nicht am Geld, sondern daran, dass es solche Objekte kaum gibt. Zwanzig Menschen im Haupthaus halbieren beides. Die soziale Dichte, die eigentlich gewollt ist, entsteht dann nicht über die Kopfzahl im Haus, sondern über ein **Einzugsgebiet angebundener Wohnungen** und einen **großen Trägerkreis** (→ 2.2).
+
+Das ist ein Tausch, kein Gratisgewinn: Die Schwierigkeit wandert von der Immobiliensuche in die Governance. Wer nicht im Haus schläft, verpasst die informellen Entscheidungen, und aus „wohnt nebenan" wird über Jahre „gehört nicht ganz dazu". Genau dieses Kippen zu verhindern ist ab jetzt eine Kernaufgabe der Ordnungen — nicht der guten Absicht.
+
+---
+
+## 2 — Grundarchitektur: drei Ebenen
+
+Drei Ebenen, die bewusst **nicht aus denselben Menschen bestehen**.
+
+```mermaid
+flowchart TD
+    T["<b>Trägerkreis e.V.</b><br/>alle, die das Projekt tragen<br/>unabhängig vom Wohnort<br/><i>läuft durchgehend</i>"]
+    Z["<b>Zwischenschritt</b><br/>gemietetes Objekt, 6–12 Personen<br/><i>befristet, mit Ablaufdatum</i>"]
+    E["<b>Eigentumsebene</b><br/>Haus-GmbH + Syndikat<br/><i>erst wenn Objekt konkret ist</i>"]
+
+    T -->|"beauftragt, befristet"| Z
+    Z -->|"Erkenntnisse, protokolliert"| T
+    T -->|"gründet später"| E
+```
+
+**Trägerkreis (e.V.)** — die Projektebene und die einzige, die von Anfang bis Ende durchläuft. Hier werden Selbstverständnis, Suchprofil, Finanzrahmen und später die Rechtsform beschlossen. Der Verein hält die Beiträge und beauftragt externe Beratung.
+
+**Zwischenschritt (gemietete Wohngemeinschaft)** — *ein Projekt des Trägerkreises, nicht der Trägerkreis selbst.* Volle Autonomie im Alltag. **Keine Entscheidungsmacht über das Zielprojekt.**
+
+**Eigentumsebene** — wird erst gegründet, wenn ein Objekt konkret verhandelt wird. Vorher wäre sie leere Form mit laufenden Kosten.
+
+### 2.1 Warum die Trennung von Ebene 1 und 2 die wichtigste Strukturentscheidung ist
+
+Wer im Zwischenschritt wohnt, entwickelt zwangsläufig mehr Bindung, mehr Detailwissen und mehr informelle Autorität als alle anderen. Das ist unvermeidlich und auch gut.
+
+Gefährlich wird es erst, wenn dieselben acht Menschen gleichzeitig das Entscheidungsgremium für die spätere ganze Gruppe sind. Dann entsteht eine Gründungselite mit einem Erfahrungsvorsprung, den niemand mehr aufholen kann — und wer später dazukommt, betritt eine fertige Kultur, die er nicht mitgeprägt hat, und bleibt Gast im eigenen Zuhause.
+
+Das ist exakt derselbe Mechanismus, an dem in vierzig Jahren Generation 2 scheitern würde, nur früher und in klein. Wer „soll überdauern" ernst meint, entscheidet es hier.
+
+**Praktisch heißt das:**
+
+- Stimmrecht im Trägerkreis hängt an der **Verbindlichkeitsstufe, nicht am Wohnort**. Wer Beitrag zahlt und in der Kerngruppe ist, stimmt gleichberechtigt mit — auch aus Hamburg.
+- Der Zwischenschritt bekommt ein **befristetes Mandat mit Ablaufdatum**. Unbefristet wird erst das Projekt.
+- **Protokollpflicht nach außen.** Was im Zwischenschritt an Erkenntnis entsteht, gehört dem Trägerkreis. Sonst entsteht Wissen, das nur im Wohnzimmer existiert.
+
+### 2.2 Drei Kreise der Zugehörigkeit — Haus, Einzugsgebiet, Trägerkreis
+
+Die drei Ebenen oben beschreiben, *wer entscheidet*. Dieser Abschnitt beschreibt, *wer dazugehört* — und das ist im Zielbild bewusst mehr als die Menschen im Haupthaus.
+
+```mermaid
+flowchart LR
+    H["<b>Haupthaus</b><br/>ca. 20 Menschen<br/><i>gemeinsame Küche, Sozialräume,<br/>Gästezimmer</i>"]
+    S["<b>Einzugsgebiet</b><br/>angebundene Wohnungen<br/><i>Geh- oder Radweite</i>"]
+    K["<b>Trägerkreis</b><br/>gehört dazu, wohnt woanders<br/><i>keine Ortsbindung</i>"]
+
+    K --> S --> H
+```
+
+|                                | **Haupthaus**         | **Einzugsgebiet**                             | **Trägerkreis**                   |
+| ------------------------------ | --------------------------- | --------------------------------------------------- | ---------------------------------------- |
+| Größenordnung                | ca. 20                      | offen, wächst mit                                  | 40–100+                                 |
+| Wohnt                          | im Objekt                   | in angebundenen Wohnungen                           | überall                                 |
+| Stimmrecht                     | ja                          | **ja, gleichberechtigt**                      | ja, ab Kerngruppe (→ 5.4)               |
+| Kapital                        | Einlage + ggf. Direktkredit | wie Haupthaus, wenn die Wohnung dem Projekt gehört | Direktkredit möglich, ohne Wohnanspruch |
+| Zugang zu Gemeinschaftsräumen | selbstverständlich         | selbstverständlich                                 | zu offenen Zeiten und Formaten           |
+| Dienste und Ämter             | volle Beteiligung           | volle Beteiligung                                   | nach Möglichkeit                        |
+| Warteliste fürs Haupthaus     | —                          | **Vorrang**                                   | nach Verfahren                           |
+
+**Warum das die tragfähigere Konstruktion ist:**
+
+- **Es macht das Objekt findbar.** 850–1.300 m² statt 1.200–1.700 m² verändert die Objektsuche von „gibt es kaum" zu „gibt es regelmäßig" (→ 4.1, 10.2).
+- **Es drückt den Kapitalbedarf** von 4–8 auf 3–5,5 Mio. € — und verteilt ihn auf mehr Schultern, weil auch Einzugsgebiet und Trägerkreis Direktkredite geben können (→ 4.4).
+- **Es gibt Abschnitt 7 seinen Puffer zurück.** Ein Umzug ins Einzugsgebiet ist eine echte, gesichtswahrende Option nach einer Trennung — ohne das Projekt zu verlassen (→ 7.3). Bei 20 Menschen unter einem Dach wäre das sonst der schwächste Punkt des Modells.
+- **Es macht Wachstum möglich, ohne umzuziehen.** Der Kreis kann wachsen, das Haus muss nicht.
+- **Es entschärft die Standortfrage.** Ein Objekt im Umland wird tragbar, wenn ein Teil der Gruppe in der Stadt wohnt und umgekehrt (→ 4.5).
+
+> **Der Preis, klar benannt:** Zugehörigkeit ohne tägliche Anwesenheit ist fragil. Das Haupthaus produziert unvermeidlich informelle Entscheidungen — am Küchentisch, um 23 Uhr, ohne Protokoll. Ohne Gegenmaßnahmen entsteht binnen weniger Jahre eine Zwei-Klassen-Struktur, in der das Einzugsgebiet formal gleichberechtigt und faktisch außen vor ist. Das ist derselbe Mechanismus wie in 2.1, nur dauerhaft statt befristet.
+
+**Gegenmittel, die von Anfang an gelten müssen:**
+
+- **Kein Beschluss ohne Ladung.** Was am Küchentisch besprochen wird, ist keine Entscheidung — das gehört in die Geschäftsordnung, nicht in die Etikette (→ 6.2).
+- **Feste Termine statt spontaner Runden** für alles Verbindliche. Spontaneität bevorzugt strukturell die, die schon da sind.
+- **Ämter bewusst ins Einzugsgebiet vergeben**, nicht nur die Mitarbeit.
+- **Ein eigener Schlüssel und ein eigenes Fach im Haupthaus.** Symbolisch, aber wirksam: Wer klingeln muss, ist Gast.
+- **Regelmäßige Erhebung**, wie zugehörig sich die Kreise tatsächlich fühlen — und zwar bevor jemand geht, nicht danach.
+
+---
+
+## 3 — Rechts- und Eigentumsform
+
+### 3.1 Optionsvergleich
+
+| Form                                 | Stimmrecht                                               | Haftung                                    | Kapital der Mitglieder                       | Schutz vor Verkauf                    | Urteil                                                                                               |
+| ------------------------------------ | -------------------------------------------------------- | ------------------------------------------ | -------------------------------------------- | ------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **GbR**                        | frei regelbar                                            | **persönlich, gesamtschuldnerisch** | Anteile                                      | keiner                                | ✗ bei einer Gruppe dieser Größe und Millionenkredit untragbar                                     |
+| **e.V. allein**                | 1 Kopf = 1 Stimme                                        | beschränkt                                | kein Rückzahlungsanspruch                   | mittel                                | ✗ Nebenzweckprivileg §§ 21/22 BGB — Immobilienbetrieb als Hauptzweck kostet die Rechtsfähigkeit |
+| **eG**                         | **1 Kopf = 1 Stimme, unabhängig von der Einlage** | beschränkt                                | Geschäftsanteile, Rückzahlung zum Nennwert | schwach — ¾-Mehrheit kann auflösen | ○ solide, aber nicht generationenfest                                                               |
+| **GmbH / GmbH & Co. KG**       | i.d.R. nach Kapital                                      | beschränkt                                | Geschäftsanteile                            | keiner                                | ○ nur als Baustein                                                                                  |
+| **WEG**                        | nach Miteigentumsanteil                                  | je einzeln                                 | Eigentum, mit Wertsteigerung                 | keiner                                | ✗ Anteile frei verkäuflich, ihr könnt nicht steuern, wer einzieht                                 |
+| **Mietshäuser Syndikat**      | 1 Kopf = 1 Stimme im Hausverein                          | beschränkt                                | Direktkredite, rückzahlbar                  | **strukturell**                 | ✓**Empfehlung**                                                                               |
+| **Erbbaurecht über Stiftung** | —                                                       | —                                         | —                                           | **sehr stark**                  | ✓**als Ergänzung**                                                                           |
+
+### 3.2 Empfehlung: Mietshäuser Syndikat, möglichst mit Erbbaurecht
+
+Von allen Modellen löst das Syndikat als einziges *genau* das Problem, das durch Grundentscheidung 2 entstanden ist: dauerhafte Unverkäuflichkeit gegen den Willen einer künftigen Mehrheit.
+
+Der Unterschied zur Genossenschaft in einem Satz: **In einer eG kann eine Dreiviertelmehrheit auflösen und verteilen. Im Syndikat kann eine Hundertprozentmehrheit der Bewohner:innen es nicht.** Das ist der Abstand zwischen „schwer" und „strukturell ausgeschlossen".
+
+### 3.3 Wie das Syndikat mechanisch funktioniert
+
+Pro Haus entstehen zwei Körperschaften:
+
+- **Hausverein e.V.** — die Bewohner:innen, ein Mensch eine Stimme. Entscheidet über alles Alltägliche: Miethöhe, Sanierungen, wer einzieht, wie gelebt wird.
+- **Haus-GmbH** — besitzt die Immobilie, trägt den Kredit. Zwei Gesellschafter: der Hausverein (Kapitalmehrheit) und die **Mietshäuser Syndikat GmbH** (kleiner Anteil).
+
+Der Kern steckt im Gesellschaftsvertrag der Haus-GmbH: Für **Verkauf, Umwandlung in Einzeleigentum, Änderung des Gesellschaftsvertrags und Auflösung** braucht es **Einstimmigkeit beider Gesellschafter**. Für alles andere hat das Syndikat **null Mitsprache**.
+
+Das ist die Pointe: Das Syndikat mischt sich nicht ins Leben ein. Es kann nur an genau einer Sache hindern — sich selbst zu verkaufen. Ihr gebt keine Autonomie ab, ihr gebt eine **Option** ab. Und genau diese Option würde die Enkelgeneration sonst ziehen.
+
+**Was es kostet**
+
+- **Solidarbeitrag** in den Fonds, aus dem das Eigenkapital der nächsten Projekte kommt. Beginnt niedrig, steigt mit sinkender Kreditlast. *(Genaue Sätze direkt erfragen.)*
+- **Direktkredite** statt klassischem Eigenkapital: Nachrangdarlehen aus dem Umfeld, häufig 0–2 % Zins, von Banken als quasi-Eigenkapital akzeptiert. Bei einem Objekt in der hier angenommenen Größe reden wir über **grob 1,5–2,5 Mio. €**, die im Bekanntenkreis eingeworben werden müssen. Das ist über Jahre die härteste Arbeit und die größte Abhängigkeit des Modells.
+- **Zeit.** Aufnahme über halbjährliche Syndikatstreffen, ein Patenprojekt und einen Konsensbeschluss aller Projekte. Ein bis zwei Jahre Vorlauf.
+
+**Ein oft übersehener Zusatznutzen:** Nachrangdarlehen öffentlich einzuwerben kollidiert schnell mit der **Prospektpflicht nach dem Vermögensanlagengesetz**. Das Syndikat hat dafür erprobte Muster. Im Alleingang ist das ein reales Haftungsrisiko.
+
+### 3.4 Passung des queeren Profils
+
+Das Syndikat versteht sich als Beitrag zu bezahlbarem, dem Markt entzogenem Wohnraum — nicht als Immobilienlösung für einen Freundeskreis. Ein **explizit queeres Wohnprojekt ist ein Auftrag** und damit im Aufnahmeverfahren keine Verlegenheitsantwort, sondern genau die Art von Vorhaben, für die das Modell gemacht wurde.
+
+Zu klärende Reibungspunkte:
+
+- **Neubau** ist nicht die Stärke des Syndikats; Bestandserwerb schon.
+- Das Modell ist explizit links und selbstorganisiert. Wenn das für Teile des Kreises fremd ist, sollte das jetzt auffallen, nicht im Beitrittsverfahren.
+- **Kombinierbar mit Erbbaurecht** (z. B. [Stiftung trias](https://www.stiftung-trias.de/), Hattingen): Boden bei der Stiftung, Gebäude in der Haus-GmbH. Doppelte Sicherung und deutlich weniger Kapitalbedarf.
+
+### 3.5 Gemeinnützigkeit — ein unterschätzter Hebel
+
+**§ 52 Abs. 2 AO** nennt ausdrücklich die Förderung der Hilfe für Menschen, die aufgrund ihrer geschlechtlichen Identität oder sexuellen Orientierung diskriminiert werden. Ein queerer Zweck ist also ein anerkannter gemeinnütziger Zweck.
+
+**Aber:** Das Wohnen der eigenen Mitglieder ist *nicht* gemeinnützig. Wer beides in eine Körperschaft packt, riskiert die Aberkennung samt Nachversteuerung.
+
+**Vorschlag: zwei getrennte Vereine.**
+
+|               | **Hausverein**                                   | **Community-Verein**                                                  |
+| ------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- |
+| Zweck         | Wohnen, Selbstverwaltung, Gesellschafter der Haus-GmbH | queere Community-Arbeit, Bildung, Beratung, Veranstaltungen                 |
+| Gemeinnützig | nein                                                   | ja                                                                          |
+| Nutzt         | Wohnräume                                             | Veranstaltungsraum, Gästezimmer als Schutz- und Begegnungsraum             |
+| Ermöglicht   | Wohnsicherheit                                         | **Spendenbescheinigungen**, Zugang zu Fördertöpfen, Stiftungsmittel |
+
+Der Community-Verein kann Räume von der Haus-GmbH anmieten — sauber getrennt, sauber bilanziert. Bei einem Kapitalbedarf in Millionenhöhe ist die Spendenfähigkeit kein Detail.
+
+Zu prüfen: strikte Sphärentrennung (ideeller Bereich / Zweckbetrieb / wirtschaftlicher Geschäftsbetrieb / Vermögensverwaltung), zeitnahe Mittelverwendung, Selbstlosigkeitsgebot. **Das gehört in die Hände einer auf Gemeinnützigkeitsrecht spezialisierten Kanzlei — nicht in Eigenregie.**
+
+### 3.6 Wer darf einziehen? — Zweck, Quote, Kultur
+
+Hier werden drei Fragen ständig vermischt, die getrennt gehören:
+
+| Frage                                  | Antwort                                                                                                            |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Was ist der**Zweck** des Hauses? | queer. Steht in Satzung und Charta, trägt die Gemeinnützigkeit (→ 3.5) und die Syndikatspassung (→ 3.4)        |
+| Wer darf**einziehen**?           | grundsätzlich alle, die die Charta mittragen.**Keine Identitätsprüfung an der Tür**                      |
+| Wie bleibt es dann ein queeres Haus?   | über eine**Quote für die Zusammensetzung** — eine Aussage über das Haus, nicht über die einzelne Person |
+
+**Warum nicht als hartes Kriterium.** Ein Aufnahmekriterium „queer" klingt eindeutig und ist es nicht. Es zwingt den Aufnahmekreis in eine Rolle, die niemand haben will: zu entscheiden, wer queer *genug* ist. Es erzeugt Outing-Druck gegenüber einem Gremium. Es schließt Menschen aus, die unbestreitbar dazugehören — cis-hetero Kinder von Bewohner:innen, Partner:innen in gemischten Konstellationen, Angehörige. Und es ist der Sorte Regel, die im Konfliktfall gegen Leute verwendet wird. Ein breites Label ist ein Vorteil, solange man es nicht zum Türsteher macht.
+
+**Warum es trotzdem eine Sicherung braucht.** Minderheitenräume kippen nicht durch eine Entscheidung, sondern durch Arithmetik. Jede einzelne Aufnahme ist gut begründet, und nach zwei Generationen ist aus dem queeren Projekt ein Wohnprojekt geworden, in dem auch queere Menschen leben. Das ist der Normalfall, nicht die Ausnahme — und es passiert lautlos, weil sich niemand dagegen entscheidet.
+
+**Der Vorschlag: eine Zusammensetzungsquote.**
+
+- **Mindestanteil der Zielgruppe** an den erwachsenen Bewohner:innen — Größenordnung **zwei Drittel**, Zahl ist zu entscheiden (→ 12.2). In die *Satzung*, nicht in eine Ordnung: Sie soll gegen die eigene spätere Mehrheit halten (→ 9.1).
+- **Selbstzuordnung, kein Nachweis.** Wer sich zur Zielgruppe zählt, zählt dazu. Keine Definitionsliste in der Satzung, keine Prüfung, keine Begründungspflicht.
+- **Aggregiert, nie personenbezogen.** Die Quote führt der Aufnahmekreis als Zahl. Im Plenum wird nie über die Zuordnung einzelner Personen gesprochen — sonst erzwingt genau die Schutzregel das Outing, das sie verhindern soll.
+- **Steuerung über Vorrang, nicht über Verbot.** Wird die Quote unterschritten, hat die Zielgruppe bei den nächsten Aufnahmen Vorrang. Niemand wird ausgeschlossen, es verschiebt sich nur die Reihenfolge. Das ist milder, robuster und rechtlich leichter zu tragen.
+
+**Poly ist ausdrücklich kein Aufnahmekriterium.** Monogam lebende Menschen sind willkommen, und poly zu leben ist keine Erwartung. Was nicht verhandelbar ist, ist die **Kultur**: Im Haus sind überlappende Beziehungen normal, sichtbar und selbstverständlich. Der Filter ist **Affirmation, nicht Praxis**. Wer poly gelebte Beziehungen als etwas erlebt, das man aushält, wird hier unglücklich — und macht andere unglücklich. Das gehört in die Charta und ins Aufnahmegespräch, nicht in eine Satzungsklausel.
+
+> **Die ehrliche Fassung in einem Satz:** Nicht „nur queere Menschen", sondern *ein Haus, das strukturell queer bleibt* — und in dem man poly-affirmativ sein muss, aber nicht poly leben.
+
+**Rechtlich.** Vereinsautonomie erlaubt einem Verein grundsätzlich, seine Mitglieder selbst zu wählen, und das AGG nimmt Wohnverhältnisse mit besonderem Nähe- und Vertrauensverhältnis weitgehend aus. Eine Quote mit Vorrangregel ist dabei **leichter zu begründen als ein absoluter Ausschluss** — sie ist als positive Maßnahme zum Ausgleich bestehender Nachteile darstellbar. Trotzdem: **einmal anwaltlich absichern**, insbesondere die Verzahnung von Vereinsmitgliedschaft und Nutzungsvertrag.
+
+---
+
+## 4 — Finanzierung
+
+> **Alle Zahlen sind grobe Größenordnungen zum Nachrechnen, Stand 2026, keine Angebote. Der Rechenweg ist absichtlich offengelegt, damit ihr ihn mit eigenen Annahmen wiederholen könnt.**
+
+### 4.1 Raum- und Kapitalbedarf
+
+| Position                                      | Annahme                                                          | Ergebnis                     |
+| --------------------------------------------- | ---------------------------------------------------------------- | ---------------------------- |
+| Privatfläche                                 | 25–35 m² je Person × 20                                       | 500–700 m²                 |
+| Gemeinschaftsfläche                          | 12–22 m² je Person — steigt bei kleinerer Gruppe, siehe unten | 250–450 m²                 |
+| Gästezimmer + Veranstaltung                  | pauschal,**unabhängig von der Gruppengröße**            | 100–150 m²                 |
+| **Gesamt**                              |                                                                  | **ca. 850–1.300 m²** |
+| Bestandskauf + Sanierung                      | 2.500–4.000 €/m²                                              | 2,1–5,2 Mio. €             |
+| Neubau inkl. Baunebenkosten                   | 4.000–5.000 €/m² zzgl. Grundstück                            | 3,4–6,5 Mio. € + Boden     |
+| **Realistischer Korridor**              |                                                                  | **3–5,5 Mio. €**     |
+| Eigenkapitalquote der Bank                    | 20–30 %                                                         | **0,6–1,65 Mio. €**  |
+| Je Bewohner:in, ungemildert                   | ÷ 20                                                            | 30.000–82.000 €            |
+| **Je Kapitalgeber:in bei 35 Schultern** | Haupthaus + Einzugsgebiet + Trägerkreis                         | **17.000–47.000 €**  |
+
+**Zwei Dinge, die diese Tabelle zeigt und die leicht übersehen werden:**
+
+1. **Halbe Gruppe heißt nicht halbe Kosten.** Küche, Speisesaal, Veranstaltungsraum, Gästezimmer, Technik und Erschließung sind weitgehend fix. Bei 20 statt 30 Menschen verteilt sich derselbe Gemeinschaftsanteil auf weniger Köpfe — deshalb steigt die Gemeinschaftsfläche *pro Person*, und der Gesamtbedarf sinkt um etwa ein Viertel, nicht um ein Drittel.
+2. **Der eigentliche Hebel ist nicht die kleinere Gruppe, sondern die breitere Basis.** Wenn Direktkredite auch aus dem Einzugsgebiet und dem Trägerkreis kommen (→ 2.2), tragen deutlich mehr Schultern dieselbe Summe — ohne dass mehr Menschen im Haus wohnen müssen. Das ist der Punkt, an dem die Drei-Kreise-Struktur finanziell zahlt.
+
+### 4.2 Was diese Zahl drückt
+
+- **Erbbaurecht** statt Grundstückskauf — nimmt den Bodenanteil vollständig aus der Finanzierung. In Köln der größte Einzelhebel.
+- **Direktkredite** aus dem erweiterten Umfeld ersetzen einen Großteil des Eigenkapitals.
+- **NRW-Wohnraumförderung** (öffentliche Baudarlehen mit Tilgungsnachlässen). Preis: Einkommensgrenzen und Mietobergrenzen für die geförderten Einheiten.
+- **Spenden** über den gemeinnützigen Community-Verein (→ 3.5).
+- **Konzeptvergabe** statt Höchstgebot — dort zählt das Konzept, nicht der Preis.
+
+Kombiniert lässt sich der Bedarf je Kapitalgeber:in realistisch in Richtung **10.000–22.000 €** bewegen. Das bleibt für viele Menschen viel Geld (→ 4.4).
+
+### 4.3 Laufende Finanzen
+
+| Topf                               | Zweck                                           | Größenordnung                                                                    |
+| ---------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------- |
+| **Nutzungsgebühr**          | Kapitaldienst + Betriebskosten + Rücklage      | bei ~3 Mio. Fremdkapital und 6 % Kapitaldienst grob**700–850 €/Kopf** warm |
+| **Instandhaltungsrücklage** | Substanzerhalt über Jahrzehnte                 | **1,2–1,5 % des Wiederbeschaffungswerts p. a.** — satzungsfest             |
+| **Haushaltskasse**           | Gemeinschaftsküche, Lebensmittel               | Pro-Kopf-Umlage, erfahrungsgemäß**100–160 €/Monat**                      |
+| **Projektbudget**            | Reparaturen, Anschaffungen, gemeinsame Vorhaben | jährlich beschlossen, an Arbeitskreise delegiert                                  |
+| **Solidarfonds**             | Ausfälle bei Jobverlust, Krankheit, Krise      | Umlage, mindestens 2–3 Monatsgebühren Puffer                                     |
+| **Solidarbeitrag Syndikat**  | Eigenkapital künftiger Projekte                | steigend über die Jahre                                                           |
+
+**Ehrliche Einordnung:** Ein solches Projekt wird in Köln *nicht billiger* als der Markt. Es liefert für dasselbe Geld mehr Fläche und Gemeinschaft — und vor allem Preisstabilität über Jahrzehnte, während der Markt weiterläuft. Der Vorteil ist zeitlich, nicht sofort.
+
+### 4.4 Ungleiches Vermögen und soziale Staffelung
+
+In jeder Gruppe dieser Größe reicht die Spanne von „kann nichts einbringen" bis „kann sechsstellig einbringen". Wird das nicht *vorher* geregelt, regelt es sich informell — und informell heißt: Wer viel eingebracht hat, bekommt Gewicht, das in keiner Satzung steht.
+
+**Der Grundsatz: starke Schultern tragen mehr — und bekommen mehr zurück.** Das ist ausdrücklich gewollt und mit dem Nennwertprinzip vollständig vereinbar. Voraussetzung ist, dass drei Ströme sauber getrennt bleiben:
+
+| Strom                                      | gestaffelt?                        | Rückfluss beim Auszug                                     |
+| ------------------------------------------ | ---------------------------------- | ---------------------------------------------------------- |
+| **Kapital** (Einlage + Direktkredit) | **ja, ausdrücklich**        | **ja — zum Nennwert, in voller eingezahlter Höhe** |
+| **Laufende Nutzungsgebühr**         | ja, aber vorsichtig und freiwillig | nein, ist verbraucht                                       |
+| **Stimme und Rechte**                | **nie, ausnahmslos**         | —                                                         |
+
+#### Das häufigste Missverständnis
+
+„Nennwert" heißt nicht „alle bekommen gleich viel". Wer 60.000 € eingebracht hat, bekommt 60.000 € zurück; wer 10.000 € eingebracht hat, bekommt 10.000 €. Die Staffelung ist also bereits im Modell enthalten. Ausgeschlossen ist allein die **Wertsteigerung**: Niemand bekommt *mehr* heraus, als er hineingegeben hat. Das ist kein Gerechtigkeitsverzicht, sondern die Bedingung dafür, dass ein Auszug in dreißig Jahren das Haus nicht sprengt (→ 1.2).
+
+#### Wie die Mehrleistung technisch eingebracht wird
+
+Nicht als größere Einlage, sondern als **Direktkredit**. Die Unterscheidung ist der eigentliche Trick:
+
+|                          | **Einlage / Pflichtanteil**             | **Direktkredit**                                 |
+| ------------------------ | --------------------------------------------- | ------------------------------------------------------ |
+| Höhe                    | für alle gleich und bewusst**niedrig** | frei, nach Kapazität                                  |
+| Rechtsnatur              | Mitgliedschaft                                | Nachrangdarlehen, eigener Vertrag                      |
+| Verzinsung               | keine                                         | 0–1,5 %, frei vereinbart                              |
+| Rückzahlung             | bei Austritt, Nennwert                        | nach Kündigungsfrist,**unabhängig vom Wohnen** |
+| Stimmrecht               | ja, eine Stimme                               | **keins**                                        |
+| Übertragbar / vererbbar | nein                                          | ja                                                     |
+
+Vier Gründe für diese Trennung:
+
+1. **Niedrige Eintrittsschwelle.** Mitglied werden kostet wenig — Kapital ist eine zweite, freiwillige Ebene. Wer nichts hat, ist trotzdem vollwertig dabei.
+2. **Harte Rückzahlung.** Ein Kreditvertrag ist einklagbar. Eine Satzungsregel über Rückzahlung kann eine spätere Mitgliederversammlung ändern.
+3. **Geld lässt sich nicht in Einfluss umtauschen**, weil Kredit und Stimme verschiedene Rechtsverhältnisse sind — nicht bloß verschiedene Absichtserklärungen.
+4. **Erprobt.** Es ist das Standardinstrument des Syndikats, mit Musterverträgen und Bankakzeptanz.
+
+#### Bandbreitenmodell statt Einzelfallverhandlung
+
+Selbsteinstufung in offene Bänder, orientiert am **Richtwert** = Gesamtkapitalbedarf ÷ Köpfe:
+
+| Band        | Orientierung                             | Kapitalbeitrag                                                             |
+| ----------- | ---------------------------------------- | -------------------------------------------------------------------------- |
+| **0** | kein Eigenkapital                        | 0 € — Platz über einen von der Gruppe vermittelten Direktkredit Dritter |
+| **1** | begrenzte Rücklagen                     | ca. ½ Richtwert                                                           |
+| **2** | Regelfall                                | Richtwert                                                                  |
+| **3** | Erbe, Immobilienverkauf, hohes Einkommen | 2–3 × Richtwert                                                          |
+| **4** | darüber                                 | nach Absprache, mit**Deckel** (siehe unten)                          |
+
+Einstufung erfolgt durch die Person selbst, gegenüber dem AK Finanzen, nicht im Plenum. **Transparenz über Bänder, nicht über Vermögen:** Öffentlich ist nur, dass die Bänder eingehalten wurden.
+
+#### Die unangenehme Seite: Klumpenrisiko und stille Vetomacht
+
+Wer viel gibt, kann viel zurückfordern. Zwei Gefahren, beide real:
+
+- **Liquiditätsschock.** Eine Person mit 200.000 € zieht aus, und das Haus muss 200.000 € aufbringen — genau dann, wenn ohnehin ein Platz neu besetzt werden muss.
+- **Faktisches Vetorecht.** „Wenn ihr so entscheidet, kündige ich meinen Kredit" ist der wirksamste Satz im Raum, und er steht in keiner Satzung.
+
+Sicherungen, die zusammen wirken müssen:
+
+- **Kündigungsfristen nach Höhe gestaffelt** — kleine Beträge 6–12 Monate, große 24–36.
+- **Jahresdeckel:** maximal ein festgelegter Prozentsatz des Direktkreditvolumens fließt pro Jahr ab.
+- **Nachrücker-Prinzip:** Auszahlung, sobald ersetzt — aber mit **harter Außengrenze**, sonst wird daraus ein Nie-Auszahlen.
+- **Rückzahlungsreserve** als eigener Topf, nicht aus der Instandhaltungsrücklage.
+- **Obergrenze je Person** (Größenordnung 10 % des Gesamtkapitals), Überschreitung nur mit qualifiziertem Beschluss.
+- **Entkopplung von Kapital und Wohnrecht, in beide Richtungen.** Wer auszieht, verliert das Wohnrecht, nicht das Geld. Wer den Kredit kündigt, verliert nicht das Wohnrecht. Und eine angedrohte Kreditkündigung ist **kein zulässiges Argument** in einer Sachdebatte — das gehört ausdrücklich in die Geschäftsordnung.
+
+#### Staffelung auch bei den laufenden Kosten?
+
+Möglich, aber deutlich heikler als beim Kapital. Modell:
+
+- **Sockelgebühr für alle gleich** (je m², kostendeckend) — plus **freiwilliger Solidaraufschlag** in Bändern, aus dem Nachlässe finanziert werden.
+- **Kein Rechtsanspruch auf Nachlass**, sondern befristeter, wiederholbarer Beschluss einer kleinen Kommission auf Antrag. Nicht im Plenum, und die Kommission rotiert.
+- **Fallstricke:** öffentliche Wohnraumförderung schreibt Miet- und Einkommensgrenzen vor (→ 4.2); unterschiedliche Entgelte für dieselbe Leistung brauchen eine saubere Grundlage im Nutzungsvertrag; verbilligte Überlassung kann steuerlich relevant werden.
+- **Der soziale Fallstrick ist der größere:** Wer entlastet wird, darf dafür nicht mit Rechtfertigung bezahlen. Ein Nachlass, der jedes Jahr vor der Gruppe erbeten werden muss, ist keine Solidarität, sondern eine Bittsteller-Position.
+
+#### Was ausgeschlossen bleibt
+
+Rendite über den Nennwert hinaus, Wertsteigerung, Stimmgewicht nach Kapital, bevorzugte Zimmerwahl, dauerhafte Sonderrechte für Gründer:innen.
+
+> **Rechtlicher Hinweis:** Nachrangdarlehen von vielen Privatpersonen können unter das Vermögensanlagengesetz fallen (Prospektpflicht). Es gibt Ausnahmen und Schwellenwerte, und das Syndikat hat dafür erprobte Muster — aber das ist genau der Punkt, an dem Laienlösungen teuer werden. **Mit Musterverträgen arbeiten und einmal prüfen lassen.**
+
+### 4.5 Was der Standort mit der Zahl macht — Köln und Umland
+
+> Größenordnungen, keine Marktdaten. Belastbare Zahlen liefern der Gutachterausschuss der Stadt Köln und das Bodenrichtwertportal **BORIS.NRW** — beides kostenlos.
+
+Der Bodenanteil ist der einzige Kostenblock, der sich durch den Standort wirklich bewegen lässt. Bauen und Sanieren kostet in Lindlar ungefähr dasselbe wie in Ehrenfeld.
+
+| Korridor                                                                                                                  | Boden                                | Objektverfügbarkeit für 850–1.300 m²        | Erreichbarkeit                    | Wirkung aufs Pro-Kopf-Kapital                                                    |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------- | --------------------------------- | -------------------------------------------------------------------------------- |
+| **Köln innerhalb des Gürtels**                                                                                    | sehr hoch                            | praktisch null im freien Verkauf                | ideal                             | Kauf unrealistisch.**Nur über Konzeptvergabe oder Erbbaurecht** (→ 10.1) |
+| **Köln Randlagen** (Porz, Chorweiler, Ostheim, Bocklemünd)                                                        | hoch, aber Faktor 2–3 unter zentral | gelegentlich — Gewerbe, Schulen, Kirchenbauten | KVB/S-Bahn, 20–40 min            | spürbar niedriger, Profil bleibt städtisch                                     |
+| **Speckgürtel mit Schienenanschluss** (Leverkusen, Bergisch Gladbach, Frechen, Hürth, Brühl, Pulheim, Troisdorf) | deutlich niedriger                   | brauchbar                                       | 20–40 min, meist umsteigefrei    | **das beste Verhältnis** aus Preis und Anbindung                          |
+| **30–50 km** (Bergisches Land, Rhein-Erft-West, Euskirchen, Düren, Rhein-Sieg-Süd)                               | niedrig                              | gut — Höfe, Klöster, Heime, Gasthöfe        | 45–75 min, oft mit Umstieg       | größter Preishebel,**höchster sozialer Preis**                          |
+| **Bonn**                                                                                                            | mittel                               | brauchbar                                       | eigener Anker, nicht Köln-Pendel | funktioniert nur, wenn die Gruppe wirklich nach Bonn will                        |
+
+**Drei Einschätzungen, die bei der Umlandfrage meist übersehen werden:**
+
+1. **Der Sanierungsanteil frisst den Umlandvorteil.** Bei einem Bestandsobjekt mit hohem Sanierungsbedarf kann der Bau- und Technikanteil den Löwenanteil ausmachen — und der ist überall gleich teuer. Der Umlandvorteil ist groß bei Boden und Kaufpreis, klein bei Handwerk und Haustechnik. Wer 40 km rausgeht, halbiert nicht die Gesamtkosten.
+2. **Anbindung ist bei diesem Projekt kein Komfort, sondern Substanz.** Das Haus lebt von Gästezimmern, offenen Formaten und einem Umfeld, das ohne Auto nachts wieder wegkommt (→ 10.1). Eine schlechte Spätverbindung kostet mehr Community als sie an Miete spart. Praktischer Prüfstein: **letzte Verbindung nach Köln an einem Samstag um 1 Uhr.**
+3. **Die Umlandvariante passt besonders gut zur Drei-Kreise-Struktur** aus 2.2 — großes Objekt mit Grundstück draußen, plus ein „Einzugsgebiet" angemieteter oder eigener Wohnungen in der Stadt. Das entschärft die Erreichbarkeitsfrage, verkompliziert aber Governance und Mitgliedschaft erheblich (→ 12.2).
+
+**Faustregel:** Innerhalb Kölns ist die Frage *„bekommen wir überhaupt ein Objekt?"*. Draußen ist die Frage *„zieht die Gruppe wirklich mit?"*. Beides sind Machbarkeitsfragen, aber sie scheitern an verschiedenen Dingen.
+
+---
+
+## 5 — Der Weg dorthin: Track A und Track B
+
+### 5.1 Die Ausgangslage ehrlich
+
+Aktuell: ein **loser Kreis von 10+ Interessierten**. Drei Dinge dazu, die den Maßstab setzen:
+
+**Die Schwundquote.** Erfahrungswert aus der Wohnprojekte-Szene: Von den Menschen, die anfangs Interesse zeigen, ziehen am Ende **20–30 % wirklich ein**. Für 20 Plätze im Haupthaus braucht es im Verlauf grob **40–70 Interessierte** — und für die Drei-Kreise-Struktur aus 2.2 eher **60–100**, weil Einzugsgebiet und Trägerkreis mitgefüllt werden wollen. „Kreis erweitern" ist deshalb Daueraufgabe, keine Phase.
+
+**Die Urlaubs-Falle.** Urlaub selektiert auf „miteinander schöne Zeit haben". Alltag selektiert auf etwas anderes: Müll, Geld, Krankheit, Lärm, Putzplan und der immer gleiche Streit über die immer gleiche Kleinigkeit. Die Überschneidung ist real, aber nicht eins zu eins — und bisher kennt ihr euch nur unter kuratierten Bedingungen, in denen jederzeit jede:r gehen konnte.
+
+**Geografische Streuung.** Urlaubskreise sind meist über die Republik verteilt. Die Frage „wer würde tatsächlich nach NRW ziehen" halbiert solche Listen häufig, bevor irgendetwas anderes passiert. Sie gehört früh gestellt.
+
+### 5.2 Track A — der Zwischenschritt
+
+**Zweck:** die Kernannahme testen, bevor Millionen im Spiel sind. Und: einen Ort haben, an den man einladen kann, damit der Kreis organisch wächst statt über Powerpoint.
+
+|                      |                                                                              |
+| -------------------- | ---------------------------------------------------------------------------- |
+| Größe              | 6–12 Personen                                                               |
+| Form                 | **gemietet**, nicht gekauft                                            |
+| Objekt               | Hof im Speckgürtel, altes Pfarrhaus, große Etage, ehemalige Praxis/Kanzlei |
+| Dauer                | **befristet, 2–3 Jahre, mit hartem Enddatum**                         |
+| Verhältnis zum Ziel | Projekt des Trägerkreises, keine Entscheidungsmacht über das Zielprojekt   |
+| Pflicht              | Gästezimmer ab Tag eins, regelmäßige offene Formate                       |
+
+**Explizite Lernziele.** Der Zwischenschritt soll nicht testen, „ob es Spaß macht" — das weiß man schon. Er soll folgende Fragen beantworten und die Antworten protokollieren:
+
+1. Wie entscheiden wir, wenn wir *uneins* sind — nicht wenn wir uns einig sind?
+2. Wer macht die unsichtbare Arbeit, und wie wird sie sichtbar? *(→ Anhang A)*
+3. Was passiert, wenn jemand über Wochen depressiv, krank oder überlastet ist?
+4. Wie fühlt sich Geld-Ungleichheit im Alltag an?
+5. Wie geht die Gruppe mit einer Trennung im Haus um? *(→ Abschnitt 7)*
+6. Wie erleben Neue den Einstieg in ein bestehendes Beziehungsnetz?
+7. Was passiert, wenn jemand ausziehen will?
+
+Diese Erkenntnisse sind der eigentliche Rohstoff für Satzung und Ordnungen.
+
+**Die Falle:** Der Zwischenschritt wird bequem. Deshalb Enddatum im Mietvertrag *und* in der Selbstverpflichtung — und Track B mit eigenen Terminen daneben.
+
+### 5.3 Track B — Struktur und Kapital, parallel
+
+| Meilenstein                         | Ziel                                             |
+| ----------------------------------- | ------------------------------------------------ |
+| Auftaktwochenende, extern moderiert | breit einladen, Kreis sichtbar machen            |
+| Selbstverständnisprozess           | **nicht** vom Initiator moderiert (→ 6.3) |
+| Trägerverein gegründet            | Konto, Beitrag, Beschlussfähigkeit              |
+| Erster Geldschritt aktiv            | 25–50 €/Monat, finanziert externe Beratung     |
+| Externe Beratung beauftragt         | Wohnprojekte-Beratung, nicht Makler              |
+| Kontakt Syndikat aufgenommen        | Syndikatstreffen besuchen                        |
+| Kapitalerhebung im Kreis            | anonyme Bandbreiten-Abfrage, kein Einzelbetrag   |
+| Suchprofil beschlossen              | Ort, Größe, Objekttyp, Preisdeckel             |
+| Objektsuche aktiv                   | inkl. Konzeptvergaben und Erbbaurechtsangebote   |
+
+**Der erste Geldschritt ist der schärfste Filter, den es gibt** — und der einzige, der niemandem die Existenz kostet. Ein monatlicher Beitrag im Bereich 25–50 € trennt Interesse von Absicht zuverlässiger als jedes Gespräch, und er finanziert genau die Beratung, die den Unterschied macht.
+
+### 5.4 Verbindlichkeitsstufen
+
+Der häufigste Fehler ist ein binäres „dabei oder nicht". Niemand kann in einem Sprung auf vierzig Jahre zusagen. Stufen mit klaren Rechten:
+
+| Stufe                  | Verpflichtung                         | Rechte                                               |
+| ---------------------- | ------------------------------------- | ---------------------------------------------------- |
+| **Interessiert** | keine                                 | Newsletter, offene Termine, Gast im Zwischenschritt  |
+| **Mitdenkend**   | Anwesenheit bei Plena                 | Rederecht, Mitarbeit in Arbeitskreisen               |
+| **Kerngruppe**   | Monatsbeitrag, verbindliche Mitarbeit | **volles Stimmrecht**, unabhängig vom Wohnort |
+| **Zeichnend**    | Einlage / Direktkredit zugesagt       | Anspruch auf einen Platz nach Aufnahmeverfahren      |
+
+Aufstieg jederzeit möglich, Abstieg ohne Gesichtsverlust ausdrücklich vorgesehen. Wer eine Stufe zurückgeht, ist nicht gescheitert — das muss kulturell verankert sein, sonst bleiben Leute aus Scham in einer Verbindlichkeit, die sie nicht tragen.
+
+---
+
+## 6 — Governance
+
+### 6.1 Entscheidungsverfahren
+
+**Nicht reiner Konsens.** Schon bei zwanzig Menschen im Haus — und einem stimmberechtigten Kreis, der deutlich größer ist (→ 2.2) — führt Einstimmigkeit zu Blockade, Erschöpfung und — paradoxerweise — zu *mehr* informeller Macht, weil sich Entscheidungen in Küchengespräche verlagern. Jo Freemans [The Tyranny of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm) beschreibt genau diesen Mechanismus und ist Pflichtlektüre für die Gründungsgruppe.
+
+**Empfehlung: Konsent nach soziokratischem Muster.** Ein Vorschlag ist angenommen, wenn niemand einen *schwerwiegenden, begründeten* Einwand hat. Der Unterschied zu Konsens: Es geht nicht um „bin ich dafür", sondern um „steht dem etwas Wichtiges entgegen". Einwände müssen begründet und bearbeitbar sein; Präferenzen sind keine Einwände.
+
+**Delegation mit echtem Mandat.** Arbeitskreise (Haus, Garten, Küche, Finanzen, Aufnahme, Awareness, Kinder, Öffentlichkeit) bekommen Budget und Entscheidungsbefugnis in ihrem Bereich. Das Plenum entscheidet über Grundsätze, nicht über Anschaffungen.
+
+### 6.2 Das Plenum strukturell verankern
+
+Damit Beschlüsse *bindend* sind, braucht es formale Mindestbedingungen — sonst ist jeder Beschluss später bestreitbar:
+
+- **Ladung** mit Frist und Tagesordnung, schriftlich, dokumentiert
+- **Beschlussfähigkeit** (Quorum) definiert — und ein Verfahren, wenn es verfehlt wird
+- **Protokoll** mit Beschlusstext im Wortlaut, verbindlich nach Einspruchsfrist
+- **Beschlusssammlung**, durchsuchbar. Ohne sie weiß nach fünf Jahren niemand mehr, was gilt
+- **Umlaufbeschlüsse** für Eiliges, mit engeren Regeln
+- **Abwesende sind gebunden** — ausdrücklich festhalten, sonst wird jedes Plenum durch Nichterscheinen entwertet
+- **Änderungsregeln**: Was ist einfache Mehrheit, was Konsent, was qualifiziert?
+
+### 6.3 Macht begrenzen — insbesondere Gründer:innenmacht
+
+Der Initiator eines Projekts hat automatisch Deutungshoheit, Wissensvorsprung und Beziehungsnetz. Das ist am Anfang nützlich und wird später zum Risiko: Projekte überdauern nur, wenn die Gründer:innen die Deutungshoheit **aktiv abgeben** und Generation 2 es anders machen darf. Das ist eine Designentscheidung, keine Charakterfrage.
+
+Konkret:
+
+- **Amtszeitbegrenzung** für alle Ämter, mit Pflichtpause
+- **Rotation** von Ämtern, inklusive der unattraktiven
+- **Der Selbstverständnisprozess wird extern moderiert**, nicht vom Initiator
+- **Wissensverteilung als Pflicht**: keine Zuständigkeit, die nur eine Person ausüben kann
+- **Befangenheitsregeln** (→ 7.5)
+
+### 6.4 Dokumentenset
+
+Faustregel: **In die Satzung nur, was gegen die eigene spätere Mehrheit geschützt werden muss.** Alles andere gehört in Ordnungen, die das Plenum ändern kann. Eine überladene Satzung macht das Projekt handlungsunfähig; eine zu dünne macht es angreifbar.
+
+| Dokument                                 | Rechtscharakter                    | Änderbar durch                      | Inhalt                                                             |
+| ---------------------------------------- | ---------------------------------- | ------------------------------------ | ------------------------------------------------------------------ |
+| **Satzung**                        | hart, Registergericht              | qualifizierte Mehrheit + ggf. Veto   | Zweck, Organe, Stimmrecht, Aufnahme, Ausschluss, Vermögensbindung |
+| **Gesellschaftsvertrag Haus-GmbH** | hart, notariell                    | Einstimmigkeit beider Gesellschafter | Verkaufsveto, Zweckbindung                                         |
+| **Nutzungsvertrag**                | Zivilrecht, schärfstes Instrument | Vertragsparteien                     | Wohnrecht, Kopplung an Mitgliedschaft, Gebühr                     |
+| **Gemeinschaftsordnung**           | intern bindend                     | Plenum                               | Alltag, Ämter, Küche, Lärm, Gäste, Tiere, Konsum               |
+| **Geschäftsordnung Plenum**       | intern bindend                     | Plenum                               | Ladung, Quorum, Konsent, Protokoll, Delegation                     |
+| **Aufnahmeordnung**                | intern bindend                     | Plenum                               | Kriterien, Probewohnen, Verfahren, Befangenheit                    |
+| **Finanzordnung**                  | intern bindend                     | Plenum                               | Einlagen, Bänder, Solidarfonds, Rücklage, Auszahlung             |
+| **Awareness- und Konfliktkonzept** | intern bindend                     | Plenum                               | Eskalationsleiter, Ombudsstelle, Verfahren                         |
+| **Schutzkonzept (Kinder)**         | intern bindend, extern geprüft    | Plenum + Fachberatung                | → Abschnitt 8                                                     |
+| **Selbstverständnis / Charta**    | nicht justiziabel                  | Konsent                              | Werte, Haltung, Aufnahmefilter                                     |
+
+Die Charta ist rechtlich wertlos und praktisch das wichtigste Dokument: Sie ist das, was Menschen lesen, bevor sie sich bewerben — und der Grund, aus dem die Richtigen kommen und die Falschen nicht.
+
+---
+
+## 7 — Poly und Beziehungsnetz: strukturelle Vorkehrungen
+
+> Überlappende Beziehungen sind für die **Qualität** des Zusammenlebens ein Gewinn und für die **Statik** ein Risiko. Das Folgende ist keine moralische Bewertung, sondern Konstruktionslehre: Dieselben Eigenschaften, die Nähe erzeugen — Dichte, Durchlässigkeit, Vertrauen — erzeugen auch Ausbreitungswege für Konflikte.
+
+### 7.1 Das Grundprinzip
+
+> **Queer ist Kriterium. Poly ist Kultur. Eine Beziehung ist niemals ein Zugangsweg.**
+
+Zwei Gründe, beide zwingend:
+
+**Generationenfestigkeit.** Läuft Zugehörigkeit faktisch über Beziehungen, ist das Haus in vierzig Jahren entweder leer oder eine Erbdynastie. Wer neu einzieht und nicht ins Netz verwoben ist, bliebe dauerhaft Gast im eigenen Zuhause.
+
+**Verfahrensintegrität.** Wer einzieht, *weil* er mit jemandem zusammen ist, hat das Aufnahmeverfahren umgangen — und die Gruppe hat eine Entscheidung getroffen, die sie nie getroffen hat.
+
+**Regel:** Wer mit einer Person aus dem Haus zusammenkommt, durchläuft dennoch das volle reguläre Verfahren inklusive Probewohnen. **Die betroffene Person stimmt nicht mit ab.**
+
+Und umgekehrt, ebenso wichtig: **Wer nicht ins Beziehungsnetz will, ist genauso zugehörig.** Das gehört ausdrücklich in die Charta, sonst entsteht ein unausgesprochener Erwartungsdruck, den niemand je beschlossen hat. Aromantische, asexuelle und monogame queere Menschen müssen sich in diesem Haus vollständig zu Hause fühlen können.
+
+### 7.2 Trennungen sind Systemereignisse, keine Privatsache
+
+In einer gewöhnlichen WG betrifft eine Trennung zwei Menschen. In einem überlappenden Netz verschiebt sie den gesamten sozialen Graphen: Metamours, Freundschaften, Loyalitäten, wer noch mit wem am Tisch sitzt. Läuft sie schlecht, polarisiert sich das Haus in Lager.
+
+**Das ist der am besten dokumentierte Zerstörer von Poly-Gemeinschaften** — nicht Eifersucht im Alltag, nicht Geld, sondern die Lagerbildung nach einer schlecht verlaufenen Trennung.
+
+Die Konsequenz für das Design: Regeln für diesen Fall müssen existieren, **solange sie abstrakt sind**. Jede Regel, die nach dem ersten Fall geschrieben wird, ist eine Parteinahme — und wird auch so gelesen.
+
+### 7.3 Verfahren: „Wer muss gehen?"
+
+**Die Antwort lautet: niemand.** Das Wohnrecht hängt an der Mitgliedschaft, nie an einer Beziehung. Die Gruppe entscheidet nicht, wessen Beziehung wichtiger ist. Nie.
+
+Damit dieser Satz nicht bloß eine Behauptung ist, braucht er bauliche und organisatorische Grundlagen:
+
+| Vorkehrung                      | Was sie leistet                                                                       | Was sie voraussetzt                                                      |
+| ------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Umzugsrecht im Haus**   | betroffene Person hat Vorrang auf den nächsten freien Raum in einem anderen Hausteil | Räume werden*zugewiesen*, nicht besessen; mehrere getrennte Hausteile |
+| **Rotationszimmer**       | ein bis zwei Räume, die nie dauerhaft vergeben sind                                  | wird bei der Objektplanung eingepreist, nicht später gesucht            |
+| **Krisenzimmer**          | kleiner Rückzugsraum für Trennung, Krankheit, Konflikt                              | dauerhaft freigehalten, Belegung durch Awareness-AK, nicht durch Plenum  |
+| **Auszeit-Regelung**      | befristetes Fernbleiben ohne Verlust von Mitgliedschaft und Einlage                   | Zwischenvermietungsregel, reduzierte Gebühr                             |
+| **Kontaktvereinbarungen** | temporäre Absprachen (getrennte Kochtage, getrennte Räume zu bestimmten Zeiten)     | ausdrücklich als*Vereinbarung*, nicht als Strafe                      |
+
+**Der einzige Fall, in dem jemand tatsächlich gehen muss, ist Gewalt oder Übergriff.** Dann greift ein anderes Verfahren (→ 7.6), und zwar unabhängig davon, in welcher Beziehungskonstellation es passiert ist.
+
+> **Bei zwanzig Menschen im Haupthaus ist genau dieser Abschnitt der wundeste Punkt.** Ein Umzugsrecht „in einen anderen Hausteil" hat nur Substanz, wenn es andere Hausteile gibt, und ein Rotationszimmer, das zwei Prozent der Fläche bindet, ist bei kleiner Gruppe teurer pro Kopf. Ehrlich gesagt: In einem Haus dieser Größe reichen die baulichen Vorkehrungen allein nicht.
+
+**Deshalb ist das Einzugsgebiet aus 2.2 hier keine Nebensache, sondern das eigentliche Ventil.** Ein Umzug in eine angebundene Wohnung ist nach einer Trennung die realistischste Form von Abstand, die es gibt: räumlich echt, sozial gesichtswahrend, und **ohne das Projekt zu verlassen** — Stimmrecht, Kapital, Ämter und Zugehörigkeit bleiben unangetastet. Das setzt zweierlei voraus, und beides muss vorher geregelt sein:
+
+- **Verfügbarkeit.** Mindestens eine Wohnung im Einzugsgebiet sollte dieselbe Rolle spielen wie das Krisenzimmer im Haus: vorgehalten, nicht erst gesucht.
+- **Freiwilligkeit.** Wer geht, geht **freiwillig und mit Vorrang auf Rückkehr**. Sobald die Gruppe entscheidet, *wer* umzieht, ist der Satz „niemand muss gehen" gebrochen — nur mit mehr Schritten.
+
+**Realistische Erwartung an Sanktionen:** Ein Vereinsausschluss beendet in Deutschland **nicht automatisch** das Wohnrecht. Selbst bei vertraglicher Kopplung von Mitgliedschaft und Nutzungsvertrag prüfen Gerichte streng; eine Räumung dauert Jahre und kostet fünfstellig. Wer meint, das Problem über Sanktionsklauseln zu lösen, täuscht sich.
+
+> **Die eigentliche Sicherung ist das Aufnahmeverfahren, nicht die Ausschlussklausel.** Probewohnen von 6–12 Monaten ist kein Misstrauen, sondern das einzige wirksame Instrument.
+
+### 7.4 Kanäle für Beziehungs- und Metamour-Konflikte
+
+Konflikte zwischen Partner:innen von Partner:innen haben keinen natürlichen Austragungsort und werden deshalb sofort hausweit. Das braucht einen eigenen, vorab definierten Weg.
+
+**Eskalationsleiter — verbindlich, in der Reihenfolge:**
+
+```mermaid
+flowchart LR
+    S1["1 · Direktes<br/>Gespräch"] --> S2["2 · Moderiert<br/>intern, unbeteiligt"]
+    S2 --> S3["3 · Externe Mediation<br/>poly-kompetent"]
+    S3 --> S4["4 · Schiedsstelle<br/>bindende Empfehlung"]
+    S4 --> S5["5 · Ausschluss<br/>nur bei Gewalt/Übergriff"]
+```
+
+1. **Direktes Gespräch.** Erwartet, nicht erzwungen.
+2. **Moderiertes Gespräch** mit einer intern benannten, *unbeteiligten* Person. In einem dichten Netz ist „unbeteiligt" knapp — deshalb muss eine Liste geeigneter Personen vorab existieren, nicht im Konflikt gesucht werden.
+3. **Externe Mediation** aus einem vorab bestimmten Pool. **Zwingend poly-kompetent** — klassisch ausgebildete Paartherapeut:innen scheitern an diesen Konstellationen regelmäßig, oft mit Schaden.
+4. **Schiedsstelle** aus externen Personen mit bindender Empfehlung für *Maßnahmen im Haus*.
+5. **Ausschlussverfahren** — nur bei Gewalt oder Übergriff.
+
+**Die härteste und wichtigste Regel dazu:**
+
+> **Beziehungsthemen gehören nicht ins Plenum.** Das Plenum entscheidet über das Haus, nie über Beziehungen. Andernfalls wird jede Trennung zur Gemeinschaftsangelegenheit, die Gruppe wird zum Gericht — und ein Gericht mit Liebesbeziehungen zu beiden Parteien ist keines.
+
+Ausnahme, eng gefasst: Wenn ein Beziehungskonflikt die *Funktionsfähigkeit des Hauses* beeinträchtigt, entscheidet das Plenum über Maßnahmen im Haus — Raumnutzung, Ämter, Kochpläne — niemals über die Beziehung selbst und niemals über Schuld.
+
+**Budget einplanen.** Externe Mediation kostet. Ein jährlicher Posten „Konfliktkosten" im Haushalt ist eines der besten Investments überhaupt, weil er die Hemmschwelle senkt, ihn zu nutzen. Ohne Budget wird Mediation erst geholt, wenn es zu spät ist.
+
+### 7.5 Macht und Intimität: Befangenheit
+
+Formale Macht und intime Beziehungen im selben Personenkreis erzeugen Abhängigkeiten, die niemand beschlossen hat. Das ist unvermeidbar — es muss nur sichtbar und begrenzt sein.
+
+- **Befangenheit bei Personalentscheidungen.** Wer mit einer Person liiert ist oder war, stimmt nicht über deren Aufnahme, Ausschluss, Raumvergabe oder Amtsbesetzung ab.
+- **Offenlegungspflicht für Amtsträger:innen** — nicht der Beziehungen, sondern der *Befangenheit* im konkreten Fall. Das schützt Privatsphäre und Verfahren zugleich.
+- **Kein Vorstand mehrheitlich aus einem Beziehungscluster.** Sonst entsteht ein Machtblock, der nach außen wie ein Gremium aussieht und nach innen wie ein Zuhause funktioniert.
+- **Amtszeitbegrenzung**, insbesondere für den Initiator.
+- **Quorum-Problem beachten:** In dichten Netzen kann konsequente Befangenheit die Beschlussfähigkeit gefährden. Deshalb braucht es ein Ersatzverfahren — etwa eine Aufnahmekommission mit rotierender Besetzung, die groß genug ist, um Ausfälle zu tragen.
+
+### 7.6 Awareness, Konsens und Übergriffe
+
+Ein Awareness-Konzept ist bei einem sexuell offenen Zusammenleben nicht optional. Es braucht mindestens:
+
+- **Awareness-AK** mit geschulten Menschen, rotierend besetzt
+- **Externe Ombuds- oder Vertrauensstelle außerhalb der Gruppe** — unverzichtbar, weil intern in einem dichten Netz niemand wirklich unbeteiligt ist
+- **Definiertes Verfahren bei Übergriffen**, schriftlich, vor dem ersten Fall
+- **Sofortmaßnahmen** (räumliche Trennung, temporäres Fernbleiben) unabhängig von der späteren Aufklärung
+- **Konsenskultur explizit machen** — auch für scheinbar Kleines: Berührung, Nacktheit, Fotos, gemeinsame Räume, Türen, Schlüssel
+
+**Ein ungelöster Konflikt, der vorab entschieden werden muss:** In queeren und linken Kontexten ist **Definitionsmacht** der betroffenen Person ein verbreitetes Prinzip. In einem Wohnprojekt kollidiert es hart mit den Folgen: Hier bedeutet ein Ausschluss den Verlust von Zuhause *und* eingebrachtem Kapital. Reine Definitionsmacht und rechtsstaatliche Verfahrensgarantien lassen sich in dieser Situation nicht beide vollständig haben.
+
+Diese Spannung ist real, sie ist nicht auflösbar durch guten Willen, und sie muss **vor der ersten Krise** entschieden werden — sonst entscheidet sie sich im Affekt, und beide Seiten werden das Ergebnis als Verrat erleben. Ein gangbarer Mittelweg: Definitionsmacht gilt uneingeschränkt für **Sofortschutz** (Glauben, Schutzmaßnahmen, räumliche Trennung, keine Rechtfertigungspflicht), während **existenzielle Maßnahmen** — Ausschluss, Kündigung — an ein Verfahren mit externer Beteiligung und Anhörung gebunden sind.
+
+Das gehört in die offenen Fragen (→ 12) und braucht eine echte Diskussion, keine schnelle Formel.
+
+---
+
+## 8 — Kinder und Schutzkonzept
+
+> Kinder kommen in Projekten dieser Größe fast immer — geplant oder nicht. Ein Haus, das erst reagiert, wenn das erste Kind da ist, trifft alle Grundsatzentscheidungen unter dem Druck konkreter Personen. Das geht schlecht aus.
+
+### 8.0 Die Vorfrage: Wohnen Kinder dauerhaft im Haupthaus?
+
+**Diese Entscheidung ist offen** und muss vor der Objektsuche fallen, weil sie eine Objektanforderung ist (→ 8.2). Bis dahin ist der Rest dieses Abschnitts in der Fassung von **Variante A** geschrieben.
+
+Die Frage lautet nicht „Kinder ja oder nein". Sie lautet: *Wo* wohnen Kinder — und was folgt daraus für Haus, Kultur und Suche. Wichtig für die Abwägung: Seit Grundentscheidung 5 ist das Einzugsgebiet ohnehin Teil der Struktur (→ 2.2). Variante B kostet deshalb **keinen zusätzlichen Suchauftrag mehr**, sondern nur eine Zweckbindung für einen Teil der Wohnungen — das verschiebt die Rechnung spürbar zu ihren Gunsten.
+
+|                                                | **A — Kinder im Haus**                                                           | **B — Haupthaus kinderfrei, Familien im Einzugsgebiet**         | **C — vollständig kinderfrei**                                              |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Schutzkonzept**                        | voll, alle 9 Bausteine (→ 8.3)                                                         | voll für die Satelliten, schlank fürs Haupthaus                      | schlank, nur Besuchskinder                                                          |
+| **Objektanforderung**                    | Familienbereich mit eigenem Treppenhaus, Gästezimmer getrennt                          | Haupthaus frei planbar, dafür**Wohnungen in Reichweite nötig** | Haupthaus frei planbar                                                              |
+| **Objektverfügbarkeit**                 | **deutlich eingeschränkt** — die härteste Zusatzanforderung im ganzen Dokument | gut, weil das Einzugsgebiet ohnehin existiert (→ 2.2)                 | am besten                                                                           |
+| **Standortlogik**                        | Schule, Kita, Spielraum werden Standortkriterien                                        | Schulfrage betrifft nur die Satelliten                                 | Standort völlig frei (→ 4.5)                                                      |
+| **Kultur im Haupthaus**                  | dauerhafte Sphärentrennung, zeitlich und räumlich                                     | Haupthaus braucht kaum Kompromisse                                     | keine Kompromisse                                                                   |
+| **Wenn jemand später ein Kind bekommt** | kein Problem                                                                            | **Umzug in einen Satelliten**, Mitgliedschaft bleibt voll        | **Auszug.** Die härteste Trennung im Modell                                  |
+| **Generationenerneuerung**               | teilweise natürlich                                                                    | teilweise natürlich                                                   | **null** — Altersmix muss zu 100 % über die Aufnahmeordnung laufen (→ 9.2) |
+| **Recht**                                | § 72a, § 8a, Aufsichtspflicht, Sorgerechtsfragen voll relevant (→ 8.6)               | im Haupthaus stark reduziert                                           | nur bei Veranstaltungen mit Minderjährigen                                         |
+| **Förderung**                           | Wohnraumförderung ist familienfreundlich gewichtet                                     | teils                                                                  | tendenziell schlechtere Ausgangslage                                                |
+| **Schwierigster Punkt**                  | Sphärentrennung muss im Alltag wirklich halten, nicht nur auf dem Papier               | Satelliten dürfen keine zweite Klasse werden                          | ein Aufnahmekriterium mit Ablaufdatum                                               |
+
+**Was in allen drei Varianten gleich bleibt:** die harte Regel aus 8.4, wortgleich. Ein Schutzkonzept für Besuchskinder — Enkel, Nichten, Kinder von Gästen — braucht es immer, nur in unterschiedlichem Umfang. Erweiterte Führungszeugnisse bei Veranstaltungen mit Minderjährigen ebenfalls. Und in jedem Fall die Anbindung an eine Fachberatungsstelle (→ 14.4).
+
+**Was Variante B zusätzlich klären muss** — sie erbt die offenen Punkte des Einzugsgebiets und macht sie dringlicher, weil dann Kinder daran hängen (→ 12.2, Frage 15):
+
+- **Reichweite:** Was heißt „im Einzugsgebiet"? Fußläufig, oder 15 Minuten mit dem Rad? Das entscheidet, ob Satelliten Alltag sind oder Besuch.
+- **Eigentum:** Gehören die Wohnungen zur Haus-GmbH, werden sie angemietet, oder ist es reine Privatsache? Nur die erste Variante ist gegen den Markt gesichert.
+- **Vollwertigkeit.** Der kritische Punkt. Gleiches Stimmrecht ist die einfache Hälfte — gleiche *Anwesenheit* ist die schwere. Wer nicht im Haus schläft, verpasst die informellen Entscheidungen, und aus „wohnt nebenan" wird über Jahre „gehört nicht ganz dazu". Gegenmittel gehören in die Ordnung, nicht in die Hoffnung.
+- **Beziehungen über die Grenze hinweg:** Wenn eine Person im Haupthaus und eine im Satelliten wohnt, greifen die Vorkehrungen aus 7.3 nur halb.
+- **Kosten:** Satellitenwohnungen sind zusätzliche Fläche, nicht umgewidmete. Sie erhöhen den Kapitalbedarf, statt ihn zu senken.
+
+> **Nicht offenlassen.** Die Variante, die niemand wählt und die trotzdem am häufigsten eintritt, ist „wir entscheiden das, wenn es soweit ist". Dann entscheidet die erste Schwangerschaft — unter dem Druck konkreter Personen, mit einer konkreten Freundin als Streitgegenstand. Genau der Fall, den dieser Abschnitt verhindern soll.
+
+**Wie man es entscheidet:** nicht durch Abstimmung im luftleeren Raum. Die Frage gehört ins Auftaktwochenende (→ 13, Schritt 7), und der Zwischenschritt liefert Empirie — wie erlebt die Gruppe Besuchskinder im Alltag, und wie ehrlich hält die Sphärentrennung, wenn niemand zusieht (→ 5.2).
+
+### 8.1 Das Spannungsfeld, ehrlich benannt
+
+Ein queeres, poly-affirmatives Haus mit offener Sexualkultur, Veranstaltungen, Gästen und möglicherweise Substanzkonsum ist ein Ort, an dem Erwachsene bewusst wenige Grenzen setzen. Kinder brauchen das Gegenteil: verlässliche, vorhersagbare Grenzen und ein Zuhause, das nicht gleichzeitig Veranstaltungsort ist.
+
+Beides ist vereinbar — aber nur **konstruktiv**, nicht durch Haltung. Die Lösung ist nicht, dass Erwachsene weniger leben. Sie ist, dass **Sphären räumlich und zeitlich getrennt** sind.
+
+Und eine unbequeme Feststellung, die dazugehört: **Gemeinschaften mit hohem Vertrauen, durchlässigen Grenzen und einem Selbstbild der Befreitheit sind für Täter:innen strukturell attraktiv** — gerade weil dort Misstrauen als Verrat an den eigenen Werten gilt und Grenzsetzung schnell als Verklemmtheit gelesen wird. Die historischen Beispiele aus Reformpädagogik und alternativen Projekten sind zahlreich und gut dokumentiert.
+
+Das ist ausdrücklich **keine** Aussage über queere oder poly lebende Menschen. Das Risiko entsteht aus **strukturellen Eigenschaften** — Vertrauen, Informalität, das Tabu des Verdachts — nicht aus Orientierung oder Beziehungsform. Genau deshalb lässt es sich strukturell adressieren. Und genau deshalb muss man es aussprechen: Ein Projekt, das diese Frage als Unterstellung zurückweist, hat den ersten Schutzmechanismus bereits verloren.
+
+### 8.2 Räumliche und zeitliche Trennung
+
+Das ist die tragende Maßnahme, und sie ist eine **Objektanforderung** — sie muss bei der Suche berücksichtigt werden, nicht nachträglich improvisiert.
+
+- **Familienbereich als eigener Hausteil**, idealerweise mit eigenem Treppenhaus. Kein Durchgangsverkehr an Kinderzimmern vorbei.
+- **Veranstaltungsraum mit separatem Zugang**, möglichst eigenem Eingang. Wer zur Party kommt, betritt nicht den Wohnbereich der Kinder.
+- **Gästezimmer nicht im Familienbereich.** Gäste sind die am wenigsten geprüfte Personengruppe im Haus.
+- **Verlässliche Zeiten.** Gemeinschaftsräume sind zu definierten, vorhersagbaren Zeiten kindersicher. Nicht „meistens" — verlässlich, und im Voraus einsehbar.
+- **Immer mindestens eine nüchterne, verantwortliche erwachsene Person** im Haus, wenn Kinder da sind. Namentlich benannt, rotierend, kein Zufallsprinzip.
+
+### 8.3 Das Schutzkonzept
+
+Ein Schutzkonzept ist ein etabliertes Instrument mit erprobter Struktur. Die Elemente orientieren sich am Standard der Unabhängigen Beauftragten für Fragen des sexuellen Kindesmissbrauchs und sollten **mit einer Fachberatungsstelle** erarbeitet werden — nicht allein.
+
+| # | Baustein                            | Konkret für dieses Projekt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| - | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | **Risikoanalyse**             | Wo genau entstehen bei*uns* Risiken? Viele Erwachsene mit Zugang, Gästezimmer, Übernachtungen, Nacktheitsnormen, Feste, wechselnde Bezugspersonen, hohe Vertrauensvermutung                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2 | **Verhaltenskodex**           | Nähe und Distanz, Umgang mit Nacktheit im Beisein von Kindern, Fotos und Social Media, Einzelsituationen, Übernachtungen, digitale Kommunikation mit Minderjährigen                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 3 | **Beschwerdeweg für Kinder** | **muss an den Eltern vorbeiführen** — in einer Kommune sind die Eltern Teil des Netzes. Externe, den Kindern bekannte Ansprechperson                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 4 | **Externe Fachberatung**      | feste Anbindung an eine Fachberatungsstelle gegen sexualisierte Gewalt, z. B. in Köln[**Zartbitter e. V.**](https://zartbitter.de/category/themen/schutzkonzepte/)                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 5 | **Interventionsplan**         | Schritt für Schritt bei Verdacht: wer wird wann informiert, ab wann extern, Dokumentation,**keine eigenmächtige Aufklärung**                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 6 | **Aufnahmeverfahren**         | **erweitertes Führungszeugnis für alle Erwachsenen im Haus**, sobald Kinder dort leben — regelmäßig erneuert. Billig, wirksam, starkes Signal                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 7 | **Partizipation der Kinder**  | Kinderplenum mit echten Entscheidungen.**Wichtig — und gegen die verbreitete Intuition:** Fachstellen wie Zartbitter warnen ausdrücklich vor „Nein-Sage-Trainings", weil sie die Verantwortung auf das Kind verschieben und im Ernstfall zusätzlich Scham erzeugen. Schutz entsteht nicht dadurch, dass Kinder Nein sagen lernen, sondern dadurch, dass **Erwachsene Grenzen setzen, Kinder ernst genommen und geglaubt werden** und es einen Beschwerdeweg gibt, der funktioniert. Partizipation heißt hier: echtes Mitentscheiden, nicht Selbstverteidigungstraining |
+| 8 | **Fortbildung**               | verpflichtend bei Einzug, regelmäßig aufgefrischt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 9 | **Überprüfung**             | das Konzept wird jährlich überprüft und angepasst                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+### 8.4 Die harte Regel
+
+> **Zwischen Erwachsenen im Haus und Minderjährigen findet kein romantischer oder sexueller Kontakt statt. Ausnahmslos, unabhängig vom gesetzlichen Schutzalter, unabhängig von der Konstellation. Verstoß bedeutet sofortige Trennung und Einschaltung externer Stellen.**
+
+Diese Hausregel ist **strenger als das Strafrecht**, und das ist Absicht. Sie ist nicht verhandelbar, sie wird nicht kontextualisiert, und sie steht in der Charta, nicht im Kleingedruckten. Wer damit ein Problem hat, ist damit selbst das Ausschlusskriterium.
+
+### 8.5 Jugendliche — der schwierigste Fall
+
+13- bis 18-Jährige wachsen in einem Haus auf, in dem Sexualität und Beziehungsvielfalt sichtbar und normalisiert sind, während sie gerade ihre eigene entwickeln. Das kann außerordentlich befreiend sein — und außerordentlich übergriffig, wenn es schlecht gemacht wird.
+
+- **Sehr starke Privatsphäre**: abschließbare Zimmer, unbedingtes Anklopfen, kein Zugriff auf ihre Räume ohne Einverständnis
+- **Das Recht, uninteressiert zu sein.** Kein Erwartungsdruck, an der Kultur des Hauses teilzunehmen, sich zu positionieren oder sich zu outen
+- **Erwachsene sind keine Peers.** Sie ersetzen weder Gleichaltrige noch werden sie Vertraute in Fragen, die zu Gleichaltrigen oder externen Fachpersonen gehören
+- **Externe Ansprechperson** außerhalb des Hauses, die sie selbst kennen und erreichen
+- **Anschluss nach außen aktiv fördern** — Schule, Sport, Freundeskreise ohne Bezug zum Haus. Jugendliche, deren gesamte soziale Welt im Haus liegt, sind strukturell abhängig
+
+### 8.6 Rechtliche Punkte
+
+- **§ 72a SGB VIII** — bei Tätigkeiten mit Minderjährigen (auch ehrenamtlich, auch bei Veranstaltungen des Vereins) sind erweiterte Führungszeugnisse vorgeschrieben.
+- **§ 8a SGB VIII** — Schutzauftrag bei Kindeswohlgefährdung. Auch wenn ihr formal kein Träger der Jugendhilfe seid: Die Struktur zu übernehmen ist schützend und wird von Fördergebern und Behörden erwartet.
+- **Sorgerecht in Poly-Konstellationen.** Das deutsche Recht kennt **nur zwei rechtliche Elternteile**. Soziale Elternschaft weiterer Personen ist rechtlich weitgehend ungeschützt: keine Vertretungsbefugnis, keine Auskunftsrechte bei Ärzt:innen oder Schule, kein Erbrecht. Teilweise abfederbar über **Sorgerechtsvollmacht**, **Umgangsvereinbarung**, **Vormundbenennung im Testament** und **Notfallvollmacht**. Ein Lichtblick: **§ 1685 Abs. 2 BGB** gibt engen Bezugspersonen, die tatsächlich Verantwortung für das Kind getragen haben, ein **eigenes Umgangsrecht** — ein Wohnprojekt ist für den Nachweis einer sozial-familiären Beziehung fast der Musterfall. **Das gehört früh zu einer Fachanwält:in für Familienrecht**, nicht in den Konfliktfall.
+- **Aufsichtspflicht** in Gemeinschaftsräumen: klären, wer sie wann hat, und schriftlich festhalten. Im Schadensfall ist „das machen wir alle zusammen" keine Antwort.
+- **Versicherung**: Betriebshaftpflicht des Vereins, Veranstaltungshaftpflicht, und die Frage, was bei Gästen und bei Veranstaltungen überhaupt gedeckt ist.
+
+### 8.7 Exkurs: Verantwortungsgemeinschaft — hilft, aber an anderer Stelle
+
+Die geplante **Verantwortungsgemeinschaft** (Eckpunkte des Bundesjustizministeriums, 2024) sollte es zwei bis sechs Menschen ermöglichen, füreinander rechtlich einzustehen — ohne Paarbeziehung, ohne Ehe, modular aufgebaut mit Stufen für Auskunft und Vertretung in Gesundheitsfragen, Fürsorge und Pflege, Notvertretung und Zusammenleben.
+
+> **Status zwingend selbst prüfen.** In der Wahlperiode bis 2025 wurde daraus kein verabschiedetes Gesetz. Ob und in welcher Fassung das Vorhaben inzwischen umgesetzt ist, muss vor jeder Planung aktuell recherchiert werden — dieses Dokument kann das nicht leisten.
+
+| Löst das Problem                                                         | Löst es nicht                                                                |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Gesundheits- und Notvertretung**zwischen Erwachsenen**              | **Abstammung und Sorgerecht.** Die Zwei-Eltern-Grenze bleibt unberührt |
+| Auskunftsrechte, Fürsorge- und Pflegekonstellationen, gemeinsames Wohnen | Erbrecht, Steuerrecht, Unterhalt — ausdrücklich ausgenommen                 |
+| Rechtliche Anerkennung von Wahlfamilie jenseits von Paar und Ehe          | die Absicherung sozialer Eltern gegenüber dem Kind                           |
+
+**Kurz:** Für die Kinderfrage ist sie nicht das gesuchte Werkzeug — dafür wäre die Reform des **Abstammungsrechts** einschlägig, die ebenfalls über Eckpunkte nicht hinausgekommen ist. Für **Erwachsene untereinander** ist sie dagegen ziemlich genau das, was ein Haus wie dieses braucht: Krankenhaus, Intensivstation, Pflegeentscheidungen, Auskunft.
+
+**Und bis dahin — der Punkt, der sofort umsetzbar ist:** **Vorsorgevollmacht, Patientenverfügung und Betreuungsverfügung** leisten zwischen Erwachsenen heute schon fast dasselbe. Sie kosten wenig, wirken sofort und sind frei wählbar — auch zugunsten von Metamours und Wahlfamilie. **Das sollte beim Einzug Standard sein**, nicht irgendwann: ein fester Programmpunkt im Aufnahmeverfahren, mit gesammeltem Notartermin und einem Ort im Haus, an dem hinterlegt ist, wer für wen sprechen darf.
+
+---
+
+## 9 — Generationenfestigkeit
+
+### 9.1 Die vier Sicherungen gegen die eigene spätere Mehrheit
+
+| # | Mechanismus                                                  | Wirkung                                                                                      | Aufwand                                    |
+| - | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1 | **Externer Vetogeber** (Syndikat)                      | Verkauf braucht Zustimmung eines Gesellschafters ohne wirtschaftliches Eigeninteresse        | Beitrittsverfahren, Solidarbeitrag         |
+| 2 | **Boden bei einer Stiftung, Erbbaurecht beim Projekt** | Gebäude ohne Boden zu verkaufen ist wirtschaftlich unattraktiv — der Anreiz verschwindet   | Erbbauzins, Zweckbindung, Heimfallregelung |
+| 3 | **Anfallklausel**                                      | bei Auflösung fällt das Vermögen an eine gemeinnützige Stiftung, nicht an die Mitglieder | gering, nur Satzungsarbeit                 |
+| 4 | **Eigene Stiftung als Anteilseignerin**                | härteste Bindung                                                                            | teuer, träge, Stiftungsaufsicht           |
+
+**Empfehlung: 1 + 2 + 3 kombiniert.** Der Aufwand ist einmalig, die Wirkung dauerhaft. Mechanismus 3 ist der billigste und wird am häufigsten vergessen — er nimmt einem Ausverkauf schlicht die finanzielle Pointe.
+
+### 9.2 Altersmix ist eine Quote, keine Stimmung
+
+Ziehen zwanzig Gleichaltrige gleichzeitig ein, altern sie gleichzeitig. Nach 30 Jahren ist das Haus ein Pflegeheim ohne Pflegepersonal, nach 40 leer. Das ist der am zuverlässigsten eintretende Verlaufstyp bei Gründungsgruppen — und der am leichtesten vermeidbare.
+
+- **Altersquoten in der Aufnahmeordnung**, mit Bandbreiten statt starrer Zahlen
+- **Barrierefreiheit ab Tag eins**: Aufzug, schwellenlos, mindestens ein Bad rollstuhlgerecht. Nachrüsten ist im Bestand oft unmöglich und im Denkmal fast immer
+- **Pflege im Haus vorausdenken**: Ihr seid keine Pflegeeinrichtung. Wo die Grenze verläuft, gehört ins Selbstverständnis, bevor der erste Fall eintritt
+- **Aktive Nachbesetzung**: Wenn ein Platz frei wird, wird gefragt, welche Altersgruppe fehlt — nicht nur, wer gerade sympathisch ist
+
+### 9.3 Substanz: der häufigste stille Tod
+
+Generation 2 erbt nicht nur ein Haus, sondern auch dessen Zustand. Ein Sanierungsstau von zwanzig Jahren ist nicht aufholbar und zwingt zu genau der Entscheidung, die verhindert werden sollte.
+
+> **Instandhaltungsrücklage von 1,2–1,5 % des Wiederbeschaffungswerts pro Jahr, satzungsfest und nicht durch einfachen Plenumsbeschluss absenkbar.**
+
+Hier spart jede Gruppe zuerst, weil es unsichtbar ist und weil die Alternative — niedrigere Nutzungsgebühr — jedem sofort nützt. Deshalb muss die Rücklage der Mehrheit entzogen sein, genau wie die Verkaufsfrage.
+
+### 9.4 Gründungsmythos und Rückzug
+
+Generation 2 hat den Gründungsimpuls nie erlebt. Damit sie das Projekt trotzdem trägt:
+
+- **Onboarding mit Erzählung**: nicht nur Regeln, sondern *warum* sie so sind. Eine Regel, deren Grund niemand mehr kennt, wird bei der ersten Unbequemlichkeit gekippt
+- **Beschlusssammlung mit Begründungen**, nicht nur mit Beschlusstexten
+- **Bewusster Rückzug der Gründer:innen** aus Ämtern nach definierter Zeit
+- **Das Recht von Generation 2, es anders zu machen** — ausdrücklich in der Charta. Alles außer den vier Sicherungen aus 9.1 muss veränderbar sein, sonst erstarrt das Projekt und stirbt an Irrelevanz statt an Verkauf
+
+---
+
+## 10 — Ort und Objekt
+
+### 10.1 Das queere Profil verschiebt die Standortlogik
+
+Ohne queeres Profil wäre der Rat: raus aus Köln, auf die Bahn-Achsen, Wuppertal ansehen. Mit queerem Profil kippt das. Community-Infrastruktur, Beratungsstellen, Szene und politische Rückendeckung von Stadt und Land sind **Standortfaktoren, die man nicht mitnehmen kann**. Köln ist dafür einer der besten Orte in Deutschland.
+
+Zusätzlich: Bei **Konzeptvergaben** zählt das Konzept, nicht das Höchstgebot. Ein queeres Wohnprojekt mit ausgearbeitetem Sozial- und Schutzkonzept ist dort ein starker Bewerber — und Konzeptvergabe ist realistisch der einzige Weg, in Köln an bezahlbaren Boden zu kommen.
+
+### 10.2 Objekttypen — der unterschätzte Hebel
+
+Statt zu fragen „wo ist es bezahlbar", lohnt die Frage „welcher Gebäudetyp hat unser Raumprogramm schon eingebaut".
+
+| Typ                                     | Passung                                                                                                                                              | Vorsicht                                             |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Ehemaliges Kloster**            | ✓✓✓ Großküche, Speisesaal, viele Einzelzimmer mit Bad, Gemeinschaftsräume, Gästetrakt, oft Aufzug. Kirchliche Träger stoßen derzeit viel ab | Denkmalschutz, Energetik, Sanierungskosten           |
+| **Ehemaliges Alten-/Pflegeheim**  | ✓✓✓ barrierefrei, Aufzug, Großküche, Einzelzimmer mit Bad                                                                                       | wirkt institutionell, Umbau für Wohnlichkeit nötig |
+| **Tagungshaus / Bildungsstätte** | ✓✓✓ Gästezimmer, Seminarräume, Küche                                                                                                           | oft abgelegen                                        |
+| **Ehemaliges Hotel / Pension**    | ✓✓ Zimmer mit Bad, Küche, Gemeinschaftsflächen                                                                                                   | kleine Zimmer, Brandschutzauflagen                   |
+| **Bürogebäude**                 | ✓✓ große Umnutzungswelle, zentrale Lagen                                                                                                          | Grundrisse, Nasszellen, Bauantrag Nutzungsänderung  |
+| **Schule / Pfarrheim**            | ✓✓ große Räume, gute Lagen                                                                                                                       | wenig Sanitär, Wohnnutzung genehmigungspflichtig    |
+| **Kaserne / Krankenhaus**         | ✓ Größe passt                                                                                                                                     | meist zu groß, hohe Kosten                          |
+| **Mehrfamilienhaus im Bestand**   | ○                                                                                                                                                   | Gemeinschaftsflächen fehlen fast immer              |
+
+Ein aufgegebenes Kloster oder Altenheim bringt Großküche, Speisesaal, zwanzig bis dreißig Zimmer mit eigenem Bad, Aufzug, Gästetrakt und Veranstaltungsraum **bereits mit** — und lässt sich zugleich in getrennte Hausteile gliedern, wie es Abschnitt 7.3 und 8.2 verlangen. Das ist näher am Zielprogramm als fast jeder Neubau.
+
+### 10.3 Standortkorridore
+
+1. **Köln innerhalb der Stadtgrenze** — realistisch Mülheim, Kalk, Bilderstöckchen, Bickendorf, Teile von Nippes. Nur über Konzeptvergabe, Erbbaurecht oder Umnutzung.
+2. **Direkter Umlandring mit Stadtbahn/S-Bahn** — Leverkusen, Hürth, Frechen, Pulheim, Brühl, Wesseling, Bergisch Gladbach. Deutlich günstiger, Erreichbarkeit erhalten.
+3. **Rheinschiene weiter außen** — Bonn-Achse, Dormagen, Neuss. Für Klöster und Tagungshäuser die realistischste Zone.
+4. **Wuppertal** — echte Großstadt, sehr günstige Altbausubstanz, lebendige Szene, gute Verbindung. Nur wenn die Gruppe bereit ist, die Kölner Community-Anbindung aufzugeben.
+
+### 10.4 Objektanforderungen aus dem Sozialkonzept
+
+Diese Punkte sind **keine Wünsche, sondern Ableitungen** aus den Abschnitten 7 und 8. Sie gehören ins Suchprofil, weil sie sich nachträglich kaum herstellen lassen:
+
+- mehrere **getrennte Hausteile**, idealerweise mit eigenen Treppenhäusern
+- **Veranstaltungsraum mit separatem Zugang**, möglichst eigenem Eingang
+- **Gästezimmer abseits des Familienbereichs**
+- **ein bis zwei Rotationszimmer** plus ein **Krisenzimmer**, dauerhaft freigehalten
+- **Barrierefreiheit**: Aufzug, schwellenlos, rollstuhlgerechtes Bad
+- **Gemeinschaftsküche in Gewerbequalität** — bei zwanzig Bewohner:innen plus Einzugsgebiet, Gästen und Veranstaltungen keine Wohnküche
+- **Sicherheitsanforderungen** (→ 11): einsehbarer, beleuchteter Eingangsbereich, ordentliche Schließanlage, keine uneinsehbaren Zugänge
+
+---
+
+## 11 — Risikoregister
+
+| #  | Risiko                                                                | Wirkung                                                           | Vorkehrung                                                                                                                                                   |
+| -- | --------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | **Schlecht verlaufene Trennung polarisiert das Haus**           | Lagerbildung, Austritte, Projektende                              | Verfahren vor dem ersten Fall (7.3), Beziehungsthemen nicht ins Plenum (7.4), poly-kompetente Mediation mit Budget                                           |
+| 2  | **Sexualisierte Gewalt oder Machtmissbrauch**                   | zerstört Projekte zuverlässiger als alles andere                | Awareness-Konzept, externe Ombudsstelle, Definitionsmachtfrage vorab geklärt (7.6)                                                                          |
+| 3  | **Kindeswohlgefährdung**                                       | irreversibel, existenziell                                        | Schutzkonzept mit Fachberatung, erweiterte Führungszeugnisse, kindereigener Beschwerdeweg (8.3)                                                             |
+| 4  | **Rechte Anfeindungen und Angriffe**                            | reale Bedrohung für sichtbar queere Einrichtungen in Deutschland | Sicherheitskonzept, Entscheidung über öffentliche Adresse, Kontakt zu Polizei-Ansprechstelle LSBTIQ, Vorfalldokumentation, Meldung an Community-Monitoring |
+| 5  | **Beziehung wird faktisch zum Zugangsweg**                      | Verfahren ausgehebelt, Generation 2 unmöglich                    | 7.1 strikt, Befangenheitsregeln (7.5)                                                                                                                        |
+| 6  | **Gründer:innen-Dominanz**                                     | Gruppe bleibt abhängig, Gen 2 trägt nicht                       | Amtszeitbegrenzung, externe Moderation, Wissensverteilung (6.3)                                                                                              |
+| 7  | **Zwischenschritt frisst das Zielprojekt**                      | in fünf Jahren große WG statt Kommune                           | hartes Enddatum, Track B mit eigenen Terminen (5.2)                                                                                                          |
+| 8  | **Kapitalungleichheit erzeugt informelle Macht**                | Satzung sagt eine Stimme, Realität nicht                         | Bänder, Solidarfonds, strikte Entkopplung, offen benennen (4.4)                                                                                             |
+| 9  | **Direktkredite kommen nicht zusammen**                         | Finanzierung scheitert spät und teuer                            | frühe realistische Erhebung, Kreis über den Freundeskreis hinaus erweitern                                                                                 |
+| 10 | **Zins- und Baukostenänderung**                                | Finanzierungslücke                                               | Puffer 20–25 %, lange Zinsbindung, Förderung prüfen                                                                                                       |
+| 11 | **Austrittswelle**                                              | Liquiditätscrash                                                 | gestaffelte Auszahlung, Kündigungsfristen, Auszahlung erst bei Nachbesetzung                                                                                |
+| 12 | **Erbfall**                                                     | Anteile an projektfremde Erben                                    | Nennwertregelung, Anfallklausel, Satzungsregelung                                                                                                            |
+| 13 | **Sanierungsstau**                                              | stiller Tod in Generation 2                                       | Rücklage satzungsfest (9.3)                                                                                                                                 |
+| 14 | **Demografische Monokultur**                                    | Haus altert und stirbt gemeinsam                                  | Altersquote, Barrierefreiheit (9.2)                                                                                                                          |
+| 15 | **Ehrenamtsfalle / Burnout der Aktiven**                        | wenige tragen alles, dann niemand                                 | Pflichtstunden oder bezahlte Hausmeisterei, Ämterrotation                                                                                                   |
+| 16 | **Gemeinnützigkeit aberkannt**                                 | Nachversteuerung, Spendenhaftung                                  | zwei getrennte Vereine, saubere Sphärentrennung, Fachkanzlei (3.5)                                                                                          |
+| 17 | **Gästezimmer werden Dauerwohnraum oder Beherbergungsgewerbe** | Melderecht, Steuer, Brandschutz                                   | Nutzungsordnung mit Höchstdauer, klare Abgrenzung                                                                                                           |
+| 18 | **Prospektpflicht bei Direktkrediten**                          | persönliche Haftung                                              | Muster des Syndikats nutzen, anwaltlich prüfen (3.3)                                                                                                        |
+
+---
+
+## 12 — Offene Fragen, priorisiert
+
+### 12.1 Zuerst — betrifft die Machbarkeit selbst
+
+1. **Wer würde tatsächlich nach NRW ziehen?** Die wichtigste Zahl im ganzen Projekt und die am schnellsten zu erhebende. Solange sie unbekannt ist, ist alles andere Spekulation.
+2. **Wie viel Kapital steckt realistisch im Kreis?** Anonyme Abfrage in Bandbreiten, nie in Einzelbeträgen. Ergebnis entscheidet zwischen Kauf, Erbbaurecht und Miete.
+3. **Zeithorizont.** Realistisch sind von hier bis Einzug **fünf bis acht Jahre**. Wer mit zwei rechnet, wird die Gruppe verlieren, wenn Jahr drei kommt. Trägt der Kreis das?
+4. **Dein eigenes Zeitbudget.** Ein Projekt dieser Art bedeutet für die treibende Person über Jahre eine Größenordnung von zehn bis zwanzig Wochenstunden. Neben einem Vollzeitjob ist das eine echte Entscheidung, keine Nebensache.
+5. **Wohnen Kinder dauerhaft im Haupthaus?** Nicht „Kinder ja oder nein", sondern *wo*. Ändert Objektprofil, Standortlogik und Schutzkonzept grundlegend und muss **vor der Objektsuche** fallen. Drei ausgearbeitete Varianten in **8.0**.
+
+### 12.2 Grundsatzfragen, die die Gruppe entscheiden muss
+
+6. **Definitionsmacht versus Verfahrensgarantien** bei Übergriffen (→ 7.6). Die schwierigste Frage im Dokument. Muss vor der ersten Krise entschieden werden.
+7. **Wie sichtbar wollt ihr sein?** Ein öffentlich auffindbares queeres Wohnprojekt ist politisch wirksam und ein Sicherheitsrisiko zugleich (→ 11.4). Adresse öffentlich? Namen? Presse? Diese Entscheidung ist schwer rückgängig zu machen.
+8. **Konsum.** Alkohol und Substanzen in Gemeinschaftsräumen, bei Veranstaltungen, in Anwesenheit von Kindern. Und die Grenze der Gruppe bei Sucht — ihr seid keine Einrichtung.
+9. **Wie offen sind die Gemeinschaftsräume für Gäste?** Zwischen „Schutzraum, in dem alle Anwesenden bekannt sind" und „lebendigem offenen Haus" liegt eine echte Zielspannung.
+10. **Wie wird die Küche wirklich betrieben?** Kochdienst, Einkauf, Ernährungsformen, Umgang mit Unverträglichkeiten. Klingt trivial, ist bei einem Haus dieser Größe der häufigste Alltagskonflikt.
+11. **Pflichtstunden oder bezahlte Arbeit?** Wer Ehrenamt voraussetzt, produziert zuverlässig Ausbeutung der Gewissenhaften.
+12. **Wie viel Privatfläche?** Der größte Kostenhebel überhaupt — und der Punkt, an dem Ideal und Budget aufeinandertreffen.
+13. **Aromantische, asexuelle und monogame Mitbewohner:innen** — wie wird sichergestellt, dass sie vollwertig dazugehören und kein Erwartungsdruck entsteht (→ 7.1)?
+14. **Quotenhöhe und Reichweite des Zielgruppenbegriffs** (→ 3.6). Zwei Drittel oder drei Viertel? Zählen queer-nahe Lebensrealitäten mit — Regenbogenfamilien, Angehörige, Partner:innen in gemischten Konstellationen? Und was passiert bei Unterschreitung: Vorrang bei der nächsten Aufnahme oder harte Sperre?
+15. **Ausgestaltung des Einzugsgebiets.** Die Grundsatzfrage ist mit Grundentscheidung 5 beantwortet (→ 2.2), die Ausführung nicht: Wie nah ist „angebunden"? Gehören die Wohnungen der Haus-GmbH, werden sie angemietet, oder bleiben sie Privatsache? Wie wird verhindert, dass daraus eine zweite Klasse wird? Und wie greifen die Vorkehrungen aus 7.3, wenn eine Trennung über die Hausgrenze hinweg verläuft?
+16. **Soll Hausarbeit überhaupt erfasst werden?** (→ Anhang A) Kulturentscheidung, keine Werkzeugfrage — dieselbe Software wird als Entlastung oder als Kontrolle erlebt.
+
+### 12.3 Fragen für externe Expertise
+
+17. **Fachanwält:in Gemeinnützigkeitsrecht** — Zwei-Vereins-Modell tragfähig? (→ 3.5)
+18. **Fachanwält:in Miet- und Vereinsrecht** — Kopplung Mitgliedschaft/Nutzungsvertrag, Zulässigkeit der Zusammensetzungsquote und der Vorrangregel (→ 3.6, 7.3)
+19. **Fachanwält:in Familienrecht** — Absicherung sozialer Elternschaft in Poly-Konstellationen, Stand der Verantwortungsgemeinschaft (→ 8.6, 8.7)
+20. **Fachanwält:in Kapitalmarkt-/Bankrecht** — Prospektpflicht bei Direktkrediten (→ 4.4)
+21. **Fachberatungsstelle** — Erarbeitung des Schutzkonzepts (→ 8.3)
+22. **Wohnprojekte-Beratung** — Finanzierungsmodell und Objektstrategie
+23. **Mietshäuser Syndikat** — Passung, Verfahren, realistischer Zeitrahmen
+24. **Stiftung trias** — Erbbaurecht im Raum Köln überhaupt verfügbar?
+
+### 12.4 Bewusst zurückgestellt
+
+Diese Fragen sind wichtig, aber erst später entscheidbar. Sie jetzt zu diskutieren, kostet Energie ohne Ertrag: Innenausbau und Ausstattung, Energiekonzept, Haustiere, konkrete Zimmerverteilung, Gestaltung des Außenbereichs, Name und Logo.
+
+---
+
+## 13 — Nächste Schritte: die ersten 90 Tage
+
+Alles hier ist ohne Kapital, ohne Rechtsform und ohne Verpflichtung machbar.
+
+| Schritt                                                                                                                                                                                                  | Warum jetzt                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **1. Dieses Dokument teilen** und um ehrliche Reaktionen bitten — besonders zu Abschnitt 7 und 8                                                                                                  | Wer bei diesen Abschnitten abspringt, wäre später abgesprungen. Früh ist billiger   |
+| **2. Die NRW-Frage stellen** — wer würde wirklich umziehen                                                                                                                                       | siehe 12.1                                                                             |
+| **3. Kapital-Bandbreiten anonym abfragen**                                                                                                                                                         | entscheidet über die gesamte Strategie                                                |
+| **4. Bestehende Projekte besuchen** — [Villa Anders](https://www.villa-anders-koeln.de/) in Köln, [Amaryllis](https://www.amaryllis-bonn.de/) in Bonn, ein Syndikatsprojekt im Rheinland (→ 14.4) | Eine Stunde mit Menschen, die es hinter sich haben, schlägt zwanzig Stunden Recherche |
+| **5. Ein Syndikatstreffen besuchen**                                                                                                                                                               | ohne Verpflichtung, klärt die Passung sofort                                          |
+| **6. Erstberatung bei einer Wohnprojekte-Beratungsstelle**                                                                                                                                         | oft kostenlos oder gefördert                                                          |
+| **7. Auftaktwochenende planen**, extern moderiert                                                                                                                                                  | nicht vom Initiator moderiert (→ 6.3)                                                 |
+| **8. Jo Freeman lesen und gemeinsam besprechen**                                                                                                                                                   | verhindert die häufigste Governance-Falle, bevor sie entsteht                         |
+| **9. Objektsuche testweise starten** — Kloster- und Heimimmobilien im Rheinland                                                                                                                   | zeigt binnen Wochen, ob der Objekttyp verfügbar ist                                   |
+| **10. Entscheiden, ob der Zwischenschritt kommt** — und wenn ja, mit Enddatum                                                                                                                     | siehe 5.2                                                                              |
+
+---
+
+## 14 — Recherchequellen und Kontakte
+
+### 14.0 Prüfstatus — bitte lesen
+
+Diese Liste entstand aus einem Firmennetz heraus, dessen Proxy fast alle Aufrufe blockiert hat. Deshalb:
+
+| Kennzeichnung        | Bedeutung                                                                                          |
+| -------------------- | -------------------------------------------------------------------------------------------------- |
+| **[geprüft]** | Seite tatsächlich abgerufen und inhaltlich bestätigt                                             |
+| [ungeprüft]         | Adresse nach bestem Wissen korrekt,**aber nicht verifiziert** — vor Kontaktaufnahme prüfen |
+
+Wo eine Adresse nicht mehr stimmt, hilft Abschnitt 14.8: Dort stehen die Suchbegriffe, mit denen sich jede dieser Stellen wiederfinden lässt.
+
+### 14.1 Trägermodelle und Rechtsformen
+
+| Stelle                                              | Adresse                                                      | Wofür konkret                                                                                                                                            |
+| --------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mietshäuser Syndikat** [ungeprüft]        | [syndikat.org](https://www.syndikat.org/)                     | Das empfohlene Modell (→ 3.2). Dort: Modellbeschreibung, Projektkarte, Termine der Syndikatstreffen, Regionalkontakte, Muster für Direktkreditverträge |
+| **Stiftung trias**, Hattingen [ungeprüft]    | [stiftung-trias.de](https://www.stiftung-trias.de/)           | Erbbaurecht und Bodenfrage (→ 9.1). Sitzt in NRW, also zuständig für euren Raum                                                                        |
+| **Edith-Maryon-Stiftung**, Basel [ungeprüft] | [maryon.ch](https://www.maryon.ch/)                           | Zweite Bodenstiftung, auch in Deutschland aktiv                                                                                                           |
+| **Wohnprojekte-Portal** [ungeprüft]          | [wohnprojekte-portal.de](https://www.wohnprojekte-portal.de/) | Bundesweite Projektdatenbank, nach Ort filterbar — der schnellste Weg zu Referenzprojekten im Rheinland                                                  |
+
+### 14.2 Beratung und Netzwerke
+
+| Stelle                                                       | Adresse                                                                              | Wofür konkret                                                                                                             |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Forum Gemeinschaftliches Wohnen e. V.** [ungeprüft] | [forum-gemeinschaftliches-wohnen.de](https://www.forum-gemeinschaftliches-wohnen.de/) | Bundesvereinigung mit Landesregionalstellen; Erstberatung, oft kostenlos oder gefördert                                   |
+| **wohnbund e. V.** [ungeprüft]                        | [wohnbund.de](https://www.wohnbund.de/)                                               | Fachverband gemeinschaftliches Wohnen; Beratungsarm für Machbarkeit und Finanzierung                                      |
+| **Netzwerk Immovielien** [ungeprüft]                  | [netzwerk-immovielien.de](https://www.netzwerk-immovielien.de/)                       | Umnutzung von Bestandsgebäuden, Konzeptvergaben, Kommunenkontakte — relevant für die Kloster- und Heimschiene (→ 10.2) |
+| **Fellowship for Intentional Community** [ungeprüft]  | [ic.org](https://www.ic.org/)                                                         | International; viel Material zu Aufnahmeverfahren und dazu, woran Gemeinschaften scheitern                                 |
+
+### 14.3 Finanzierung und Förderung
+
+| Stelle                                                  | Adresse                                      | Wofür konkret                                                                             |
+| ------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **GLS Bank** [ungeprüft]                         | [gls.de](https://www.gls.de/)                 | Finanziert Wohn- und Syndikatsprojekte routiniert; kennt das Modell                        |
+| **UmweltBank** [ungeprüft]                       | [umweltbank.de](https://www.umweltbank.de/)   | Zweite einschlägige Adresse                                                               |
+| **NRW.BANK** [ungeprüft]                         | [nrwbank.de](https://www.nrwbank.de/)         | Landeswohnraumförderung, öffentliche Baudarlehen mit Tilgungsnachlässen (→ 4.2)        |
+| **Bundesstiftung Magnus Hirschfeld** [ungeprüft] | [mh-stiftung.de](https://www.mh-stiftung.de/) | Förderung queerer Projekte — relevant für den gemeinnützigen Community-Verein (→ 3.5) |
+
+### 14.4 Anlaufstellen in Köln und Umgebung
+
+> Der Teil, der am schnellsten konkret wird. **Vier bis fünf Gespräche hier ersetzen Monate an Recherche** — und kosten nichts außer Zeit.
+
+| Stelle                                                                | Adresse                                                                                                                                                                                                               | Warum genau die                                                                                                                                                                                                                          |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Villa Anders**, Köln [ungeprüft]                            | [villa-anders-koeln.de](https://www.villa-anders-koeln.de/)                                                                                                                                                            | Queeres Wohnprojekt direkt in Köln.**Das wichtigste Referenzgespräch überhaupt** — Menschen, die diesen Weg gegangen sind, in derselben Stadt, mit denselben Behörden und demselben Bodenmarkt                                |
+| **rubicon e. V.**, Köln [ungeprüft]                           | [rubicon-koeln.de](https://www.rubicon-koeln.de/)                                                                                                                                                                      | LSBTIQ-Beratungszentrum. Erste Adresse für Vernetzung, für die Erweiterung des Kreises über den Freundeskreis hinaus und für den Anschluss an die queere Infrastruktur der Stadt                                                     |
+| **Zartbitter e. V.**, Köln **[geprüft]**                | [zartbitter.de](https://zartbitter.de/) · [Schutzkonzepte](https://zartbitter.de/category/themen/schutzkonzepte/) · [Beratung](https://zartbitter.de/beratung/) · [Fortbildungen](https://zartbitter.de/fortbildungen) | Kölner Fachberatungsstelle gegen sexualisierte Gewalt an Kindern, bundesweit für ihre Materialien bekannt.**Die fachliche Begleitung für Abschnitt 8** — vor Ort, mit eigenem Schwerpunkt auf Schutzkonzepten in Institutionen |
+| **Stadt Köln — Liegenschaften / Konzeptvergabe** [ungeprüft] | [stadt-koeln.de](https://www.stadt-koeln.de/)                                                                                                                                                                          | Konzeptvergaben, Erbbaurechte, Kooperatives Baulandmodell. Realistisch der einzige Weg zu bezahlbarem Boden innerhalb der Stadtgrenze (→ 10.1)                                                                                          |
+| **Stadt Köln — Amt für Wohnungswesen** [ungeprüft]          | [stadt-koeln.de](https://www.stadt-koeln.de/)                                                                                                                                                                          | Wohnraumförderung, Beratung für Baugruppen und Wohnprojekte                                                                                                                                                                            |
+| **LSBTIQ-Koordination der Stadt Köln** [ungeprüft]            | über[stadt-koeln.de](https://www.stadt-koeln.de/)                                                                                                                                                                     | Politische Rückendeckung, Hinweise auf Fördertöpfe und auf laufende Vergabeverfahren, bevor sie öffentlich sind                                                                                                                      |
+| **Polizei NRW — Ansprechpersonen für LSBTIQ** [ungeprüft]    | über[polizei.nrw](https://polizei.nrw/)                                                                                                                                                                               | Für das Sicherheitskonzept (→ Risiko 4). Kontakt vor dem ersten Vorfall aufzubauen ist deutlich wirksamer als danach                                                                                                                   |
+| **Queeres Netzwerk NRW** [ungeprüft]                           | [queeres-netzwerk-nrw.de](https://www.queeres-netzwerk-nrw.de/)                                                                                                                                                        | Landesvernetzung, Fördermittelwissen, Kontakt zu anderen queeren Projekten in NRW                                                                                                                                                       |
+| **Amaryllis eG**, Bonn [ungeprüft]                             | [amaryllis-bonn.de](https://www.amaryllis-bonn.de/)                                                                                                                                                                    | Großes gemeinschaftliches Wohnprojekt in der Region, genossenschaftlich organisiert — das beste Kontrastbeispiel zum Syndikatsmodell, eine halbe Bahnstunde entfernt                                                                   |
+| **Syndikatsprojekte im Rheinland** [ungeprüft]                 | Projektkarte auf[syndikat.org](https://www.syndikat.org/)                                                                                                                                                              | Es gibt Projekte in Köln, Bonn, Düsseldorf und Aachen. Ein Besuch klärt die Milieufrage aus 3.4 an einem Abend                                                                                                                        |
+| **Kölner Wohnungsgenossenschaften** [ungeprüft]               | über[stadt-koeln.de](https://www.stadt-koeln.de/)                                                                                                                                                                     | Mögliche Kooperationspartner bei Konzeptvergaben. Eine etablierte Genossenschaft im Boot erhöht die Chancen erheblich und bringt Bonität mit                                                                                          |
+
+### 14.5 Queere Wohnprojekte als Referenz, bundesweit
+
+| Projekt                                           | Adresse                                                        | Besonderheit                                                                                                                                                                          |
+| ------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Lebensort Vielfalt**, Berlin [ungeprüft] | [schwulenberatungberlin.de](https://schwulenberatungberlin.de/) | Größtes queeres Wohnprojekt Deutschlands, mehrere Standorte, professionell aufgestellt. Viel übertragbares Wissen zum Zusammenspiel von Wohnen und gemeinnütziger Arbeit (→ 3.5) |
+| **RuT – Rad und Tat**, Berlin [ungeprüft] | [rut-berlin.de](https://www.rut-berlin.de/)                     | Lesbisches Wohnprojekt; der lange und zähe Entstehungsweg ist gut dokumentiert und realistisch                                                                                       |
+| **LSVD** [ungeprüft]                       | [lsvd.de](https://www.lsvd.de/)                                 | Rechtliche Fragen zu Diskriminierung, Regenbogenfamilien und sozialer Elternschaft (→ 8.6)                                                                                           |
+
+### 14.6 Kinderschutz
+
+| Stelle                                                 | Adresse                                                                  | Wofür                                                                                                              |
+| ------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| **Zartbitter e. V.**, Köln **[geprüft]** | [zartbitter.de](https://zartbitter.de/)                                   | siehe 14.4 — die Fachstelle vor Ort, mit der das Schutzkonzept erarbeitet werden sollte                            |
+| **UBSKM** [ungeprüft]                           | [beauftragte-missbrauch.de](https://beauftragte-missbrauch.de/)           | Unabhängige Beauftragte für Fragen des sexuellen Kindesmissbrauchs; Standards und Materialien für Schutzkonzepte |
+| **Kein Raum für Missbrauch** [ungeprüft]       | [kein-raum-fuer-missbrauch.de](https://www.kein-raum-fuer-missbrauch.de/) | Praxisorientierte Handreichungen zur Erstellung von Schutzkonzepten in Institutionen                                |
+
+### 14.7 Lektüre
+
+| Titel                                                        | Zugang                                                                          | Warum                                                                                                                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Jo Freeman,*The Tyranny of Structurelessness* [ungeprüft] | [jofreeman.com/joreen/tyranny.htm](https://www.jofreeman.com/joreen/tyranny.htm) | Kurz, frei verfügbar,**Pflichtlektüre für die Gründungsgruppe**. Erklärt, warum Strukturlosigkeit Macht nicht abschafft, sondern unsichtbar macht |
+| *Sociocracy 3.0* [ungeprüft]                              | [sociocracy30.org](https://sociocracy30.org/)                                    | Frei verfügbares Praxishandbuch zu Konsent und Kreisstruktur (→ 6.1)                                                                                       |
+| Diana Leafe Christian,*Creating a Life Together*           | Buchhandel                                                                      | Standardwerk zur Gemeinschaftsgründung; besonders stark bei Aufnahmeverfahren und Scheiternsanalysen                                                        |
+| Jessica Fern,*Polysecure*                                  | Buchhandel                                                                      | Bindung und Sicherheit in polyamoren Konstellationen (→ 7)                                                                                                  |
+| Dossie Easton / Janet Hardy,*The Ethical Slut*             | Buchhandel                                                                      | Grundlagentext, brauchbar als gemeinsame Gesprächsbasis im Kreis                                                                                            |
+
+### 14.8 Wenn ein Link tot ist — Suchbegriffe
+
+| Thema         | Suchbegriffe                                                                                                                                               |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Trägermodell | `Mietshäuser Syndikat Beitritt` · `Hausprojekt Direktkredit Nachrangdarlehen`                                                                        |
+| Boden         | `Stiftung Erbbaurecht Wohnprojekt` · `Bodenstiftung gemeinschaftliches Wohnen`                                                                        |
+| Beratung      | `Wohnprojekt Beratung NRW` · `Baugruppe Beratung Köln`                                                                                               |
+| Vergabe       | `Konzeptvergabe Köln` · `Kooperatives Baulandmodell Köln` · `Erbbaurecht Stadt Köln`                                                            |
+| Queer         | `queeres Wohnprojekt Köln` · `LSBTIQ Wohnen NRW Förderung`                                                                                          |
+| Kinderschutz  | `Schutzkonzept sexualisierte Gewalt Institution Muster` · `Fachberatungsstelle Köln`                                                                 |
+| Recht         | `Fachanwalt Gemeinnützigkeitsrecht Köln` · `Fachanwalt Vereinsrecht Wohnprojekt` · `soziale Elternschaft Sorgerechtsvollmacht Regenbogenfamilie` |
+
+## Anhang A — Ideen und Werkzeuge
+
+Sammelstelle für Dinge, die noch keine Entscheidung sind, aber nicht verloren gehen sollen.
+
+### A.1 choreOPS — unsichtbare Arbeit sichtbar machen
+
+**Was es ist.** Eine bereits im Eigenbetrieb laufende Home-Assistant-Integration zur Erfassung und Verteilung wiederkehrender Hausarbeit. Vorhanden und erprobt, also kein Neubau, sondern eine Mitgift.
+
+**Warum es hier hingehört.** Lernziel 2 aus Track A (→ 5.2) — *„Wer macht die unsichtbare Arbeit, und wie wird sie sichtbar?"* — ist in Gemeinschaften dieser Größe eine der häufigsten Bruchstellen überhaupt. Zwei bis vier Menschen tragen ein Vielfaches, merken es lange nicht, und wenn sie es merken, ist daraus schon Groll geworden. Ein Werkzeug, das Aufwand protokolliert, ersetzt das Gespräch nicht — aber es liefert **Zahlen statt Gefühlen**, und darüber lässt sich streiten, ohne sich gegenseitig den Charakter vorzuwerfen.
+
+**Der Zwischenschritt ist der ideale Testlauf.** 6–12 Personen, zwei bis drei Jahre, ausdrücklich als Experiment deklariert. Was dort trägt, geht ins große Haus; was nervt, fliegt raus, bevor das ganze Haus damit leben muss.
+
+**Vier Fallstricke, die vorher benannt gehören:**
+
+| Fallstrick                                       | Warum er zählt                                                                                                                                                                                  | Gegenmittel                                                                                                                        |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Punkte werden zur Währung**             | Sobald ein Zähler öffentlich ist, taucht er im Konflikt als Argument auf: „ich habe mehr Punkte als du". Aus einem Hilfsmittel wird eine Rangliste                                            | Aggregiert auswerten, keine Dauerbestenliste. Die Zahlen gehören dem AK Haus, nicht dem Plenumsstreit                             |
+| **Nur das Messbare zählt**                | Spülmaschine ausräumen wird gezählt, „merken, dass es jemandem schlecht geht" nicht. Wenn nur eines sichtbar wird, wandert Status dorthin — und Sorgearbeit wird**noch** unsichtbarer | Emotionale und organisatorische Arbeit ausdrücklich als Ämter mitführen, gerade weil sie nicht zählbar ist                     |
+| **Datenschutz im eigenen Zuhause**         | Anwesenheit, Routinen und Verhalten von zwanzig Menschen plus Einzugsgebiet in einem System. Zweckbindung, Zugriff und Löschfristen sind hier keine Formalie                                    | Schriftliche Regel: was erfasst wird, wer es sieht, wann es gelöscht wird. Opt-out muss möglich bleiben                          |
+| **Die Infrastruktur gehört einer Person** | Wer das System gebaut hat und wartet, hat informelle Macht und hat eine Abhängigkeit erzeugt (→ 6.3)                                                                                           | Von Anfang an eine zweite Person einarbeiten, Doku im Haus, Betrieb beim AK Haus. Fällt die eine Person aus, muss es weiterlaufen |
+
+**Offene Frage:** *Ob* Hausarbeit überhaupt getrackt werden soll, ist eine **Kulturentscheidung**, keine Werkzeugfrage. Manche Gruppen erleben so ein System als Entlastung, andere als Kontrolle. Das entscheidet die Gruppe — nicht die Person mit dem Server (→ 12.2).
+
+---
+
+## Glossar
+
+| Begriff                          | Bedeutung                                                                                       |
+| -------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Anfallklausel**          | Satzungsregel, an wen das Vermögen bei Auflösung fällt                                       |
+| **Direktkredit**           | Nachrangdarlehen von Privatpersonen, meist zinsgünstig, im Insolvenzfall nachrangig            |
+| **Definitionsmacht**       | Prinzip, wonach die betroffene Person definiert, ob ein Übergriff stattgefunden hat            |
+| **eG**                     | eingetragene Genossenschaft; ein Mitglied, eine Stimme, unabhängig von der Einlage             |
+| **Erbbaurecht**            | Recht, auf fremdem Grund zu bauen und zu nutzen, meist 99 Jahre gegen Erbbauzins                |
+| **Heimfall**               | Rückfall des Erbbaurechts an den Grundstückseigentümer bei Vertragsverstoß                  |
+| **Konsent**                | Beschluss gilt, wenn kein schwerwiegender begründeter Einwand vorliegt                         |
+| **Metamour**               | Partner:in der eigenen Partner:in, ohne eigene Beziehung zueinander                             |
+| **Nebenzweckprivileg**     | Grenze, bis zu der ein e. V. wirtschaftlich tätig sein darf                                    |
+| **Nutzungsgebühr**        | Miet-Äquivalent in Genossenschaften und Hausprojekten                                          |
+| **Prospektpflicht**        | Pflicht, bei öffentlichem Angebot von Vermögensanlagen einen geprüften Prospekt zu erstellen |
+| **Schutzkonzept**          | strukturiertes Maßnahmenpaket zur Prävention sexualisierter Gewalt                            |
+| **Wiederbeschaffungswert** | Kosten, das Gebäude heute neu zu errichten — Bezugsgröße für die Rücklage                 |
+
+---
+
+## Änderungshistorie
+
+| Datum      | Änderung                                                                                                                                                                                                                                                                                                                                                              |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-08-25 | Erstfassung. Grundentscheidungen, Architektur, Syndikat-Empfehlung, Poly- und Kinderschutzabschnitte, Risikoregister                                                                                                                                                                                                                                                   |
+| 2026-08-25 | Abschnitt 14 neu gefasst: verlinkte Quellen, eigener Block mit Kölner Anlaufstellen, Prüfstatus-Kennzeichnung, Suchbegriff-Fallback. Inline-Verlinkungen in 3.3, 6.1, 8.3 und 13. Fachliche Korrektur in 8.3 Baustein 7 („Nein-Sage-Trainings") nach Hinweis von Zartbitter                                                                                         |
+| 2026-08-25 | 3.6 neu gefasst: Zusammensetzungsquote statt Identitätskriterium, Poly als Kultur statt Bedingung; Grundentscheidung 3 entsprechend geändert. 4.4 um soziale Staffelung, Direktkreditlogik und Auszahlungssicherungen erweitert. Neu: 4.5 (Köln und Umland), 8.7 (Verantwortungsgemeinschaft), Anhang A (choreOPS). Umgangsrecht nach § 1685 BGB in 8.6 korrigiert |
+| 2026-08-25 | Neu: 8.0 — Variantenvergleich A/B/C zur Frage, ob Kinder dauerhaft im Haupthaus wohnen.**Noch nicht entschieden**; der Rest von Abschnitt 8 steht in der Fassung A                                                                                                                                                                                              |
+| 2026-08-25 | **Zielgröße geändert:** ca. 20 Menschen im Haupthaus statt 30, dafür Einzugsgebiet und großer Trägerkreis als tragende Struktur. Neue Grundentscheidung 5, neuer Abschnitt 2.2. Kapital-, Flächen- und Gebührenrechnung in 4.1–4.5 neu, 7.3 um das Einzugsgebiet als Ventil ergänzt, Größenbezüge im ganzen Dokument nachgezogen                    |
